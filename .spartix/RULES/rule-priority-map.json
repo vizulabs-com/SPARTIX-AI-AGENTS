@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "description": "Master rule priority ordering and conflict resolution map",
+  "priorityOrder": [
+    { "level": 1, "scope": "system", "path": "RULES/system/", "immutable": true, "description": "Base safety and operational constraints" },
+    { "level": 2, "scope": "user", "path": "RULES/user/", "immutable": false, "description": "User custom rules, loaded before project rules" },
+    { "level": 3, "scope": "project", "path": "RULES/project/", "immutable": false, "description": "Project-specific governance" },
+    { "level": 4, "scope": "agents", "path": "RULES/agents/", "immutable": false, "description": "Agent-specific behavior constraints" },
+    { "level": 5, "scope": "skills", "path": "RULES/skills/", "immutable": false, "description": "Skill usage constraints" },
+    { "level": 6, "scope": "hooks", "path": "RULES/hooks/", "immutable": false, "description": "Hook trigger and enforcement rules" },
+    { "level": 7, "scope": "sessions", "path": "RULES/sessions/", "immutable": false, "description": "Session-specific overrides" },
+    { "level": 8, "scope": "overrides", "path": "RULES/overrides/", "immutable": false, "description": "Explicit override declarations" }
+  ],
+  "conflictResolution": {
+    "strategy": "higher-priority-wins",
+    "tieBreaker": "more-specific-wins",
+    "unresolvable": "flag-for-co",
+    "systemRulesOverride": "never"
+  }
+}

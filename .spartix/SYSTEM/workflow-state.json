@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "description": "Current workflow state model",
+  "sessionActive": false,
+  "rulesLoaded": false,
+  "agentsDiscovered": false,
+  "skillsDiscovered": false,
+  "hooksDiscovered": false,
+  "requirementsApproved": false,
+  "currentPhase": "not-started",
+  "activeTasks": [],
+  "completedTasks": [],
+  "blockedTasks": [],
+  "workflowFeed": []
+}

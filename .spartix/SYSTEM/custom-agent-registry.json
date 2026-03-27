@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "description": "Index of discovered and validated custom agents. Populated by CO during session initialization.",
+  "customAgents": [],
+  "lastDiscovery": null,
+  "validationErrors": []
+}

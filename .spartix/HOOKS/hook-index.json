@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "description": "Master index of all built-in hooks",
+  "hooks": [
+    {
+      "name": "audit-log",
+      "file": "audit-log.md",
+      "type": "global",
+      "mandatory": true,
+      "description": "Logs all agent actions for audit trail"
+    },
+    {
+      "name": "pre-execution-validation",
+      "file": "pre-execution-validation.md",
+      "type": "pre-action",
+      "mandatory": true,
+      "description": "Validates task packet completeness before execution"
+    },
+    {
+      "name": "post-execution-validation",
+      "file": "post-execution-validation.md",
+      "type": "post-action",
+      "mandatory": true,
+      "description": "Validates completion report structure after execution"
+    },
+    {
+      "name": "security-check",
+      "file": "security-check.md",
+      "type": "pre-action",
+      "mandatory": true,
+      "description": "Checks for security policy compliance before execution"
+    },
+    {
+      "name": "progress-checkpoint",
+      "file": "progress-checkpoint.md",
+      "type": "mid-process",
+      "mandatory": false,
+      "description": "Logs progress at defined checkpoints during execution"
+    },
+    {
+      "name": "compliance-gate",
+      "file": "compliance-gate.md",
+      "type": "post-action",
+      "mandatory": false,
+      "description": "Validates compliance requirements after execution"
+    }
+  ]
+}

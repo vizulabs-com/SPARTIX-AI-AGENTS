@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "description": "User-visible status model configuration",
+  "statusLabels": [
+    {"id": "queued", "label": "Queued", "description": "Task is waiting to be assigned"},
+    {"id": "assigned", "label": "Assigned", "description": "Task has been assigned to a specialist"},
+    {"id": "planning", "label": "Planning", "description": "Task packet is being prepared by TBEP"},
+    {"id": "in-progress", "label": "In Progress", "description": "Specialist is actively executing"},
+    {"id": "waiting-for-clarification", "label": "Waiting for Clarification", "description": "User input is needed"},
+    {"id": "waiting-for-user-action", "label": "Waiting for User Action", "description": "User must perform an external action"},
+    {"id": "under-review", "label": "Under Review", "description": "Output is being reviewed by a review specialist"},
+    {"id": "completed", "label": "Completed", "description": "Task is finished and approved"},
+    {"id": "blocked", "label": "Blocked", "description": "Task cannot proceed due to a blocker"},
+    {"id": "handed-back", "label": "Handed Back to Orchestrator", "description": "Specialist returned work to CO"},
+    {"id": "sent-to-wiki", "label": "Sent to Wiki", "description": "Results are being recorded in the wiki"}
+  ],
+  "feedEntrySchema": {
+    "timestamp": "ISO 8601 datetime",
+    "taskId": "Task packet ID",
+    "agent": "Agent name and code",
+    "status": "Status label ID",
+    "description": "What is happening",
+    "selectionRationale": "Why this agent was chosen (on assignment)",
+    "expectedAction": "What the agent is expected to do",
+    "blockerInfo": "If blocked, what is blocking",
+    "nextAgent": "If known, who works next"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Spartix Task Completion Report Schema",
+  "description": "Defines the structure of a Completion Report returned by specialist agents to CO after task execution.",
+  "type": "object",
+  "required": ["reportId", "taskPacketId", "agentName", "agentCode", "agentArabicName", "status", "executionSummary", "deliverables", "completionVerification"],
+  "properties": {
+    "reportId": {
+      "type": "string",
+      "description": "Unique completion report identifier. Format: CR-YYYY-NNN.",
+      "pattern": "^CR-\\d{4}-\\d{3,}$",
+      "examples": ["CR-2026-001"]
+    },
+    "taskPacketId": {
+      "type": "string",
+      "description": "Reference to the original task packet this report responds to."
+    },
+    "agentName": {
+      "type": "string",
+      "description": "Full role name of the reporting agent."
+    },
+    "agentCode": {
+      "type": "string",
+      "description": "Short code of the reporting agent."
+    },
+    "agentArabicName": {
+      "type": "string",
+      "description": "Arabic human name of the reporting agent."
+    },
+    "startedAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when execution began.",
+      "format": "date-time"
+    },
+    "completedAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when execution finished.",
+      "format": "date-time"
+    },
+    "status": {
+      "type": "string",
+      "description": "Final status of the task execution.",
+      "enum": ["completed", "completed-with-warnings", "blocked", "failed"]
+    },
+    "executionSummary": {
+      "type": "object",
+      "description": "Summary of what was done and how.",
+      "required": ["whatWasDone", "approachTaken"],
+      "properties": {
+        "whatWasDone": { "type": "string", "description": "Concise summary of work performed." },
+        "approachTaken": { "type": "string", "description": "How the agent approached the task." },
+        "skillsUsed": { "type": "array", "items": { "type": "string" }, "description": "Which approved skills were utilized." },
+        "hooksObeyed": { "type": "array", "items": { "type": "string" }, "description": "Which mandatory hooks were triggered and obeyed." }
+      }
+    },
+    "deliverables": {
+      "type": "object",
+      "description": "What was produced.",
+      "required": ["primaryOutputs"],
+      "properties": {
+        "primaryOutputs": { "type": "array", "items": { "type": "string" }, "description": "List of deliverables produced." },
+        "outputLocations": { "type": "array", "items": { "type": "string" }, "description": "Where each deliverable can be found." },
+        "qualityAssessment": { "type": "string", "description": "Self-assessment of output quality." }
+      }
+    },
+    "testingResults": {
+      "type": "object",
+      "description": "Testing performed and results.",
+      "properties": {
+        "testsPerformed": { "type": "array", "items": { "type": "string" } },
+        "testResults": { "type": "string" },
+        "coverageNotes": { "type": "string" }
+      }
+    },
+    "issuesAndBlockers": {
+      "type": "object",
+      "description": "Problems encountered during execution.",
+      "properties": {
+        "issuesEncountered": { "type": "array", "items": { "type": "string" } },
+        "blockers": { "type": "array", "items": { "type": "string" } },
+        "workaroundsApplied": { "type": "array", "items": { "type": "string" } },
+        "unresolvedItems": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "risksAndRecommendations": {
+      "type": "object",
+      "description": "Risks discovered and recommendations for CO.",
+      "properties": {
+        "identifiedRisks": { "type": "array", "items": { "type": "string" } },
+        "recommendations": { "type": "array", "items": { "type": "string" } },
+        "followUpActions": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "completionVerification": {
+      "type": "object",
+      "description": "Verification that completion criteria from the task packet were met.",
+      "required": ["criteriaMet"],
+      "properties": {
+        "criteriaMet": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "criterion": { "type": "string" },
+              "met": { "type": "boolean" },
+              "evidence": { "type": "string" }
+            }
+          }
+        },
+        "deviationsFromPlan": { "type": "array", "items": { "type": "string" } }
+      }
+    }
+  }
+}

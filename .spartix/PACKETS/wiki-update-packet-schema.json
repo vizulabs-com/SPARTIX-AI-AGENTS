@@ -1,0 +1,80 @@
+{
+  "title": "Spartix Wiki Update Packet Schema",
+  "description": "Defines the structure of a Wiki Update Packet sent by CO to WKC for recording project events in the wiki.",
+  "type": "object",
+  "required": ["packetId", "sentBy", "sentAt", "updateType", "updateContent"],
+  "properties": {
+    "packetId": {
+      "type": "string",
+      "description": "Unique wiki update packet identifier. Format: WU-YYYY-NNN.",
+      "pattern": "^WU-\\d{4}-\\d{3,}$",
+      "examples": ["WU-2026-001"]
+    },
+    "sentBy": {
+      "type": "string",
+      "description": "The agent that sent this packet. Must always be CO.",
+      "const": "CO"
+    },
+    "sentAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when CO sent this packet.",
+      "format": "date-time"
+    },
+    "updateType": {
+      "type": "string",
+      "description": "Type of wiki update determining which page is affected.",
+      "enum": ["requirements", "decision", "task", "blocker", "milestone", "review", "change", "completion"]
+    },
+    "updateContent": {
+      "type": "object",
+      "description": "The actual content to be recorded in the wiki.",
+      "required": ["targetWikiPage", "updateAction", "entryTitle", "entryContent"],
+      "properties": {
+        "targetWikiPage": {
+          "type": "string",
+          "description": "Which wiki page to update.",
+          "examples": ["WIKI/tasks.md", "WIKI/decisions.md"]
+        },
+        "updateAction": {
+          "type": "string",
+          "description": "How to apply the update.",
+          "enum": ["append", "update-status", "create-entry"]
+        },
+        "entryTitle": {
+          "type": "string",
+          "description": "Title for the new entry or status update."
+        },
+        "entryContent": {
+          "type": "string",
+          "description": "Full content to be recorded in the wiki."
+        },
+        "relatedTaskPacketId": {
+          "type": "string",
+          "description": "Reference to the originating task packet if applicable."
+        },
+        "relatedAgent": {
+          "type": "string",
+          "description": "Which agent produced the content being recorded."
+        }
+      }
+    },
+    "context": {
+      "type": "object",
+      "description": "Context about what triggered this update.",
+      "properties": {
+        "triggerEvent": { "type": "string", "description": "What caused this wiki update." },
+        "previousState": { "type": "string", "description": "State before this update." },
+        "newState": { "type": "string", "description": "State after this update." }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Additional metadata for the wiki entry.",
+      "properties": {
+        "tags": { "type": "array", "items": { "type": "string" }, "description": "Categorization tags." },
+        "priority": { "type": "string", "enum": ["informational", "important", "critical"], "description": "Entry importance level." },
+        "crossReferences": { "type": "array", "items": { "type": "string" }, "description": "Links to related wiki entries." }
+      }
+    }
+  }
+}

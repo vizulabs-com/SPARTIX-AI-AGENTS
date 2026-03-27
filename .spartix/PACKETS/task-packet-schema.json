@@ -1,0 +1,284 @@
+{
+  "title": "Spartix Task Packet Schema",
+  "description": "Defines the structure of a Task Packet used by TBEP and CO before any specialist agent begins execution. Every field is documented with its purpose and constraints.",
+  "type": "object",
+  "required": [
+    "packetId",
+    "createdBy",
+    "approvedBy",
+    "createdAt",
+    "priority",
+    "assignment",
+    "taskDefinition",
+    "scope",
+    "inputs",
+    "expectedOutputs",
+    "completionCriteria",
+    "returnRequirements",
+    "governance"
+  ],
+  "properties": {
+    "packetId": {
+      "type": "string",
+      "description": "Unique task packet identifier. Format: TP-YYYY-NNN where YYYY is the year and NNN is a sequential number.",
+      "pattern": "^TP-\\d{4}-\\d{3,}$",
+      "examples": ["TP-2026-001", "TP-2026-042"]
+    },
+    "createdBy": {
+      "type": "string",
+      "description": "The agent that created this packet. Must always be TBEP.",
+      "const": "TBEP"
+    },
+    "approvedBy": {
+      "type": "string",
+      "description": "The agent that approved this packet for assignment. Must always be CO.",
+      "const": "CO"
+    },
+    "createdAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when TBEP created this packet.",
+      "format": "date-time"
+    },
+    "approvedAt": {
+      "type": "string",
+      "description": "ISO 8601 timestamp when CO approved this packet for assignment.",
+      "format": "date-time"
+    },
+    "priority": {
+      "type": "string",
+      "description": "Task priority level determining execution urgency.",
+      "enum": ["critical", "high", "medium", "low"]
+    },
+    "assignment": {
+      "type": "object",
+      "description": "Identifies which specialist agent is assigned and why.",
+      "required": ["agentName", "agentCode", "agentCategory", "agentArabicName", "selectionRationale"],
+      "properties": {
+        "agentName": {
+          "type": "string",
+          "description": "Full role name of the assigned agent.",
+          "examples": ["Product Owner"]
+        },
+        "agentCode": {
+          "type": "string",
+          "description": "Short code identifier of the assigned agent.",
+          "examples": ["PO"]
+        },
+        "agentCategory": {
+          "type": "string",
+          "description": "Category folder the agent belongs to.",
+          "examples": ["01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE"]
+        },
+        "agentArabicName": {
+          "type": "string",
+          "description": "The Arabic human name of the assigned agent.",
+          "examples": ["Ahmed Salim"]
+        },
+        "selectionRationale": {
+          "type": "string",
+          "description": "Explanation of why this agent was selected over alternatives. Shown in the user-visible workflow feed."
+        }
+      }
+    },
+    "taskDefinition": {
+      "type": "object",
+      "description": "Defines what must be accomplished.",
+      "required": ["title", "description", "businessContext"],
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Clear, concise task title."
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed description of what must be accomplished. Must be unambiguous."
+        },
+        "businessContext": {
+          "type": "string",
+          "description": "Why this task matters to the project and business objectives."
+        },
+        "dependencies": {
+          "type": "array",
+          "description": "List of external dependencies that must be satisfied.",
+          "items": { "type": "string" }
+        },
+        "predecessorTasks": {
+          "type": "array",
+          "description": "List of task packet IDs that must be completed before this task.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "scope": {
+      "type": "object",
+      "description": "Defines the boundaries of work — what to do and what NOT to do.",
+      "required": ["inScope", "outOfScope"],
+      "properties": {
+        "inScope": {
+          "type": "array",
+          "description": "Explicit list of work items the specialist MUST do.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "outOfScope": {
+          "type": "array",
+          "description": "Explicit list of work items the specialist MUST NOT do. Prevents scope creep.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "boundaries": {
+          "type": "string",
+          "description": "Additional narrative describing the responsibility boundaries."
+        }
+      }
+    },
+    "inputs": {
+      "type": "object",
+      "description": "Everything the specialist needs to begin work.",
+      "required": ["requiredInputs"],
+      "properties": {
+        "requiredInputs": {
+          "type": "array",
+          "description": "List of inputs the specialist needs. Must all be available before execution starts.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "referenceMaterials": {
+          "type": "array",
+          "description": "Links to wiki pages, predecessor outputs, or documentation.",
+          "items": { "type": "string" }
+        },
+        "contextFromPreviousTasks": {
+          "type": "string",
+          "description": "Summary of relevant outputs from predecessor tasks."
+        }
+      }
+    },
+    "expectedOutputs": {
+      "type": "object",
+      "description": "What the specialist must produce.",
+      "required": ["primaryDeliverables", "outputFormat", "qualityStandards"],
+      "properties": {
+        "primaryDeliverables": {
+          "type": "array",
+          "description": "List of deliverables that must be produced.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "outputFormat": {
+          "type": "string",
+          "description": "Expected format for each deliverable (e.g., Markdown, JSON, source code, diagram)."
+        },
+        "qualityStandards": {
+          "type": "string",
+          "description": "Minimum quality requirements the deliverables must meet."
+        }
+      }
+    },
+    "testingRequirements": {
+      "type": "object",
+      "description": "How the output will be validated.",
+      "properties": {
+        "testCriteria": {
+          "type": "string",
+          "description": "What aspects of the output will be tested."
+        },
+        "testScenarios": {
+          "type": "array",
+          "description": "Specific scenarios to verify.",
+          "items": { "type": "string" }
+        },
+        "acceptanceThresholds": {
+          "type": "string",
+          "description": "Minimum pass criteria (e.g., 80% coverage, zero critical findings)."
+        }
+      }
+    },
+    "reviewRequirements": {
+      "type": "object",
+      "description": "Who reviews the output and what they evaluate.",
+      "properties": {
+        "reviewAgent": {
+          "type": "string",
+          "description": "Name and code of the review-only specialist who will evaluate the output."
+        },
+        "reviewCriteria": {
+          "type": "string",
+          "description": "What the reviewer will assess."
+        },
+        "reviewGate": {
+          "type": "boolean",
+          "description": "If true, the task cannot be marked complete until review passes.",
+          "default": true
+        }
+      }
+    },
+    "completionCriteria": {
+      "type": "object",
+      "description": "Explicit conditions that define when the task is done.",
+      "required": ["doneWhen"],
+      "properties": {
+        "doneWhen": {
+          "type": "array",
+          "description": "List of conditions that must ALL be true for the task to be considered complete.",
+          "items": { "type": "string" },
+          "minItems": 1
+        },
+        "verificationMethod": {
+          "type": "string",
+          "description": "How completion will be verified (e.g., automated tests, manual review, checklist)."
+        }
+      }
+    },
+    "returnRequirements": {
+      "type": "object",
+      "description": "What the completion report must contain.",
+      "required": ["completionReportFormat", "requiredSections"],
+      "properties": {
+        "completionReportFormat": {
+          "type": "string",
+          "description": "Expected format of the completion report.",
+          "default": "Structured Markdown following PACKETS/completion-report.md template"
+        },
+        "requiredSections": {
+          "type": "array",
+          "description": "Mandatory sections in the completion report.",
+          "items": { "type": "string" },
+          "default": ["executionSummary", "deliverables", "testingResults", "issuesAndBlockers", "completionVerification"]
+        },
+        "blockerReporting": {
+          "type": "string",
+          "description": "How blockers must be reported (severity, impact, recommended resolution)."
+        }
+      }
+    },
+    "governance": {
+      "type": "object",
+      "description": "Governance constraints the specialist must obey during execution.",
+      "required": ["mandatoryHooks", "approvedSkills"],
+      "properties": {
+        "mandatoryHooks": {
+          "type": "array",
+          "description": "List of hooks that MUST be obeyed. Cannot be skipped.",
+          "items": { "type": "string" },
+          "default": ["audit-log", "pre-execution-validation", "post-execution-validation", "security-check"]
+        },
+        "approvedSkills": {
+          "type": "array",
+          "description": "List of skills the specialist MAY use. Using unapproved skills is forbidden.",
+          "items": { "type": "string" }
+        },
+        "activeRules": {
+          "type": "array",
+          "description": "List of active rules from the rule context that apply to this task.",
+          "items": { "type": "string" }
+        },
+        "constraints": {
+          "type": "array",
+          "description": "Additional constraints from the active rule context.",
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
+}

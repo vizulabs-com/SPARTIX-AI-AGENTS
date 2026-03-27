@@ -1,0 +1,2794 @@
+{
+  "version": "1.0.0",
+  "description": "Master index of all built-in agents with Arabic names",
+  "categories": [
+    {
+      "id": "00_CONTROL_LAYER",
+      "agentCount": 5,
+      "agents": [
+        {
+          "file": "Chief_Orchestrator_(CO).md",
+          "path": "AGENTS/00_CONTROL_LAYER/Chief_Orchestrator_(CO).md",
+          "name": "Omar Ibn Khattab Al-Farsi [CO] \u2014 Chief Orchestrator"
+        },
+        {
+          "file": "Requirements_Discovery_and_Approval_Gate_Agent_(RDAG).md",
+          "path": "AGENTS/00_CONTROL_LAYER/Requirements_Discovery_and_Approval_Gate_Agent_(RDAG).md",
+          "name": "Fatima Al-Zahra [RDAG] \u2014 Requirements Discovery and Approval Gate Agent"
+        },
+        {
+          "file": "Session_Rules_Loader_Agent_(SRL).md",
+          "path": "AGENTS/00_CONTROL_LAYER/Session_Rules_Loader_Agent_(SRL).md",
+          "name": "Khalid Al-Rashidi [SRL] \u2014 Session Rules Loader Agent"
+        },
+        {
+          "file": "Task_Breakdown_and_Execution_Packet_Agent_(TBEP).md",
+          "path": "AGENTS/00_CONTROL_LAYER/Task_Breakdown_and_Execution_Packet_Agent_(TBEP).md",
+          "name": "Hassan Al-Mukhtar [TBEP] \u2014 Task Breakdown and Execution Packet Agent"
+        },
+        {
+          "file": "Wiki_Custodian_(WKC).md",
+          "path": "AGENTS/00_CONTROL_LAYER/Wiki_Custodian_(WKC).md",
+          "name": "Layla Bint Nasser [WKC] \u2014 Wiki Custodian"
+        }
+      ]
+    },
+    {
+      "id": "01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE",
+      "agentCount": 15,
+      "agents": [
+        {
+          "file": "Business_Analyst_(BA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Business_Analyst_(BA).md",
+          "name": "Mariam Al-Hashimi [BA] \u2014 Business Analyst"
+        },
+        {
+          "file": "Change_Control_Agent_(CCA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Change_Control_Agent_(CCA).md",
+          "name": "Majid Al-Falasi [CCA] \u2014 Change Control Agent"
+        },
+        {
+          "file": "Decision_Audit_Agent_(DAA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Decision_Audit_Agent_(DAA).md",
+          "name": "Faisal Al-Dosari [DAA] \u2014 Decision Audit Agent"
+        },
+        {
+          "file": "Delivery_Manager_(DM).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Delivery_Manager_(DM).md",
+          "name": "Saeed Al-Maktoum [DM] \u2014 Delivery Manager"
+        },
+        {
+          "file": "Enterprise_Architect_(EA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Enterprise_Architect_(EA).md",
+          "name": "Nabil Al-Sharif [EA] \u2014 Enterprise Architect"
+        },
+        {
+          "file": "Executive_Program_Director_(EPD).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Executive_Program_Director_(EPD).md",
+          "name": "Sultan Al-Qasimi [EPD] \u2014 Executive Program Director"
+        },
+        {
+          "file": "Governance_and_Standards_Agent_(GSA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Governance_and_Standards_Agent_(GSA).md",
+          "name": "Rashid Al-Nuaimi [GSA] \u2014 Governance and Standards Agent"
+        },
+        {
+          "file": "Product_Owner_(PO).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Product_Owner_(PO).md",
+          "name": "Ahmed Salim [PO] \u2014 Product Owner"
+        },
+        {
+          "file": "Release_Governance_Agent_(RGA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Release_Governance_Agent_(RGA).md",
+          "name": "Waleed Al-Hajri [RGA] \u2014 Release Governance Agent"
+        },
+        {
+          "file": "Requirements_Traceability_Agent_(RTA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Requirements_Traceability_Agent_(RTA).md",
+          "name": "Noura Al-Ketbi [RTA] \u2014 Requirements Traceability Agent"
+        },
+        {
+          "file": "Risk_Management_Agent_(RMA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Risk_Management_Agent_(RMA).md",
+          "name": "Amina Al-Suwaidi [RMA] \u2014 Risk Management Agent"
+        },
+        {
+          "file": "Scope_Governance_Agent_(SGA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Scope_Governance_Agent_(SGA).md",
+          "name": "Dalal Al-Shamsi [SGA] \u2014 Scope Governance Agent"
+        },
+        {
+          "file": "Scrum_Master_(SM).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Scrum_Master_(SM).md",
+          "name": "Huda Al-Tamimi [SM] \u2014 Scrum Master"
+        },
+        {
+          "file": "Solution_Architect_(SA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Solution_Architect_(SA).md",
+          "name": "Tariq Al-Mansouri [SA] \u2014 Solution Architect"
+        },
+        {
+          "file": "Technical_Architect_(TA).md",
+          "path": "AGENTS/01_EXECUTIVE_LEADERSHIP_AND_GOVERNANCE/Technical_Architect_(TA).md",
+          "name": "Youssef Al-Bakri [TA] \u2014 Technical Architect"
+        }
+      ]
+    },
+    {
+      "id": "02_PRODUCT_STRATEGY_AND_PLANNING",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "Acceptance_Criteria_Agent_(ACA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Acceptance_Criteria_Agent_(ACA).md",
+          "name": "Khaled Al-Mulla [ACA] \u2014 Acceptance Criteria Agent"
+        },
+        {
+          "file": "Competitive_Analysis_Agent_(CAA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Competitive_Analysis_Agent_(CAA).md",
+          "name": "Shaikha Al-Mazrouei [CAA] \u2014 Competitive Analysis Agent"
+        },
+        {
+          "file": "Customer_Journey_Strategy_Agent_(CJSA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Customer_Journey_Strategy_Agent_(CJSA).md",
+          "name": "Jassim Al-Sulaiti [CJSA] \u2014 Customer Journey Strategy Agent"
+        },
+        {
+          "file": "Feature_Planning_Agent_(FPA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Feature_Planning_Agent_(FPA).md",
+          "name": "Abdulrahman Al-Otaibi [FPA] \u2014 Feature Planning Agent"
+        },
+        {
+          "file": "Market_Benchmarking_Agent_(MBA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Market_Benchmarking_Agent_(MBA).md",
+          "name": "Hamad Al-Thani [MBA] \u2014 Market Benchmarking Agent"
+        },
+        {
+          "file": "Monetization_Strategy_Agent_(MSA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Monetization_Strategy_Agent_(MSA).md",
+          "name": "Latifa Al-Qassimi [MSA] \u2014 Monetization Strategy Agent"
+        },
+        {
+          "file": "Pricing_Logic_Agent_(PLA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Pricing_Logic_Agent_(PLA).md",
+          "name": "Salama Al-Ameri [PLA] \u2014 Pricing Logic Agent"
+        },
+        {
+          "file": "Product_Research_Agent_(PRA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Product_Research_Agent_(PRA).md",
+          "name": "Reem Al-Baloushi [PRA] \u2014 Product Research Agent"
+        },
+        {
+          "file": "Product_Strategy_Agent_(PSA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Product_Strategy_Agent_(PSA).md",
+          "name": "Zayed Al-Nahyan [PSA] \u2014 Product Strategy Agent"
+        },
+        {
+          "file": "Product_Validation_Agent_(PVA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Product_Validation_Agent_(PVA).md",
+          "name": "Mouza Al-Khaili [PVA] \u2014 Product Validation Agent"
+        },
+        {
+          "file": "Roadmap_Management_Agent_(RMA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Roadmap_Management_Agent_(RMA).md",
+          "name": "Aisha Al-Mansoori [RMA] \u2014 Roadmap Management Agent"
+        },
+        {
+          "file": "Scope_Control_Agent_(SCA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Scope_Control_Agent_(SCA).md",
+          "name": "Ibrahim Al-Hammadi [SCA] \u2014 Scope Control Agent"
+        },
+        {
+          "file": "Subscription_and_Plans_Agent_(SPA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/Subscription_and_Plans_Agent_(SPA).md",
+          "name": "Mansour Al-Dhaheri [SPA] \u2014 Subscription and Plans Agent"
+        },
+        {
+          "file": "User_Story_Agent_(USA).md",
+          "path": "AGENTS/02_PRODUCT_STRATEGY_AND_PLANNING/User_Story_Agent_(USA).md",
+          "name": "Maha Al-Kaabi [USA] \u2014 User Story Agent"
+        }
+      ]
+    },
+    {
+      "id": "03_UX_UI_DESIGN_AND_EXPERIENCE",
+      "agentCount": 18,
+      "agents": [
+        {
+          "file": "Accessibility_Agent_(AXA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Accessibility_Agent_(AXA).md",
+          "name": "Nawaf Al-Dawsari [AXA] \u2014 Accessibility Agent"
+        },
+        {
+          "file": "Brand_Consistency_Agent_(BCA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Brand_Consistency_Agent_(BCA).md",
+          "name": "Mishal Al-Anazi [BCA] \u2014 Brand Consistency Agent"
+        },
+        {
+          "file": "Conversion_Experience_Agent_(CXA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Conversion_Experience_Agent_(CXA).md",
+          "name": "Dina Al-Shamlan [CXA] \u2014 Conversion Experience Agent"
+        },
+        {
+          "file": "Dashboard_Experience_Agent_(DXA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Dashboard_Experience_Agent_(DXA).md",
+          "name": "Hajar Al-Bloushi [DXA] \u2014 Dashboard Experience Agent"
+        },
+        {
+          "file": "Design_QA_Agent_(DQA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Design_QA_Agent_(DQA).md",
+          "name": "Wafa Al-Subai [DQA] \u2014 Design QA Agent"
+        },
+        {
+          "file": "Design_System_Agent_(DSA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Design_System_Agent_(DSA).md",
+          "name": "Asma Al-Rashid [DSA] \u2014 Design System Agent"
+        },
+        {
+          "file": "Form_Usability_Agent_(FUA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Form_Usability_Agent_(FUA).md",
+          "name": "Talal Al-Harthy [FUA] \u2014 Form Usability Agent"
+        },
+        {
+          "file": "Information_Architecture_Agent_(IAA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Information_Architecture_Agent_(IAA).md",
+          "name": "Badr Al-Qahtani [IAA] \u2014 Information Architecture Agent"
+        },
+        {
+          "file": "Interaction_Design_Agent_(IDA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Interaction_Design_Agent_(IDA).md",
+          "name": "Rania Al-Fayez [IDA] \u2014 Interaction Design Agent"
+        },
+        {
+          "file": "Microcopy_Agent_(MCA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Microcopy_Agent_(MCA).md",
+          "name": "Adel Al-Zahrani [MCA] \u2014 Microcopy Agent"
+        },
+        {
+          "file": "Navigation_Experience_Agent_(NXA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Navigation_Experience_Agent_(NXA).md",
+          "name": "Bader Al-Ajmi [NXA] \u2014 Navigation Experience Agent"
+        },
+        {
+          "file": "Prototyping_Agent_(PTA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Prototyping_Agent_(PTA).md",
+          "name": "Fahad Al-Mutairi [PTA] \u2014 Prototyping Agent"
+        },
+        {
+          "file": "Responsive_Design_Agent_(RDA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Responsive_Design_Agent_(RDA).md",
+          "name": "Ghada Al-Jaber [RDA] \u2014 Responsive Design Agent"
+        },
+        {
+          "file": "UI_Visual_Design_Agent_(UVD).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/UI_Visual_Design_Agent_(UVD).md",
+          "name": "Turki Al-Saud [UVD] \u2014 UI Visual Design Agent"
+        },
+        {
+          "file": "UX_Flow_Agent_(UXF).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/UX_Flow_Agent_(UXF).md",
+          "name": "Sami Al-Ghamdi [UXF] \u2014 UX Flow Agent"
+        },
+        {
+          "file": "UX_Research_Agent_(UXR).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/UX_Research_Agent_(UXR).md",
+          "name": "Nada Al-Harbi [UXR] \u2014 UX Research Agent"
+        },
+        {
+          "file": "UX_Writing_Agent_(UXW).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/UX_Writing_Agent_(UXW).md",
+          "name": "Hanan Al-Shehri [UXW] \u2014 UX Writing Agent"
+        },
+        {
+          "file": "Wireframing_Agent_(WFA).md",
+          "path": "AGENTS/03_UX_UI_DESIGN_AND_EXPERIENCE/Wireframing_Agent_(WFA).md",
+          "name": "Lina Al-Dosari [WFA] \u2014 Wireframing Agent"
+        }
+      ]
+    },
+    {
+      "id": "04_FRONTEND_WEB_SPECIALISTS",
+      "agentCount": 29,
+      "agents": [
+        {
+          "file": "Animation_and_Interaction_Agent_(AIA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Animation_and_Interaction_Agent_(AIA).md",
+          "name": "Idris Al-Abri [AIA] \u2014 Animation and Interaction Agent"
+        },
+        {
+          "file": "Browser_Compatibility_Agent_(BCA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Browser_Compatibility_Agent_(BCA).md",
+          "name": "Maryam Al-Busaidi [BCA] \u2014 Browser Compatibility Agent"
+        },
+        {
+          "file": "Component_Architecture_Agent_(CAA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Component_Architecture_Agent_(CAA).md",
+          "name": "Nasser Al-Kindi [CAA] \u2014 Component Architecture Agent"
+        },
+        {
+          "file": "Core_Web_Vitals_Agent_(CWV).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Core_Web_Vitals_Agent_(CWV).md",
+          "name": "Basma Al-Saadi [CWV] \u2014 Core Web Vitals Agent"
+        },
+        {
+          "file": "Dashboard_UI_Agent_(DUI).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Dashboard_UI_Agent_(DUI).md",
+          "name": "Amal Al-Wahaibi [DUI] \u2014 Dashboard UI Agent"
+        },
+        {
+          "file": "Data_Visualization_Agent_(DVA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Data_Visualization_Agent_(DVA).md",
+          "name": "Rashid Al-Hinai [DVA] \u2014 Data Visualization Agent"
+        },
+        {
+          "file": "Form_Validation_Agent_(FVA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Form_Validation_Agent_(FVA).md",
+          "name": "Zahra Al-Habsi [FVA] \u2014 Form Validation Agent"
+        },
+        {
+          "file": "Frontend_Accessibility_Compliance_Agent_(FACC).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Accessibility_Compliance_Agent_(FACC).md",
+          "name": "Ibtisam Al-Rashdi [FACC] \u2014 Frontend Accessibility Compliance Agent"
+        },
+        {
+          "file": "Frontend_Architecture_Agent_(FAA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Architecture_Agent_(FAA).md",
+          "name": "Samira Al-Harthi [FAA] \u2014 Frontend Architecture Agent"
+        },
+        {
+          "file": "Frontend_Architecture_Review_Agent_(FAR).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Architecture_Review_Agent_(FAR).md",
+          "name": "Ruqaya Al-Ismaili [FAR] \u2014 Frontend Architecture Review Agent"
+        },
+        {
+          "file": "Frontend_Component_Governance_Agent_(FCG).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Component_Governance_Agent_(FCG).md",
+          "name": "Munir Al-Wahbi [FCG] \u2014 Frontend Component Governance Agent"
+        },
+        {
+          "file": "Frontend_Design_System_Implementation_Agent_(FDSI).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Design_System_Implementation_Agent_(FDSI).md",
+          "name": "Sawsan Al-Zadjali [FDSI] \u2014 Frontend Design System Implementation Agent"
+        },
+        {
+          "file": "Frontend_Error_Telemetry_Agent_(FET).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Error_Telemetry_Agent_(FET).md",
+          "name": "Thuraya Al-Mamari [FET] \u2014 Frontend Error Telemetry Agent"
+        },
+        {
+          "file": "Frontend_Micro_Interaction_Agent_(FMI).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Micro_Interaction_Agent_(FMI).md",
+          "name": "Halima Al-Shukaili [FMI] \u2014 Frontend Micro Interaction Agent"
+        },
+        {
+          "file": "Frontend_Observability_Agent_(FOA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Observability_Agent_(FOA).md",
+          "name": "Nawal Al-Kharusi [FOA] \u2014 Frontend Observability Agent"
+        },
+        {
+          "file": "Frontend_Performance_Agent_(FPA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Performance_Agent_(FPA).md",
+          "name": "Qasim Al-Rawahi [FPA] \u2014 Frontend Performance Agent"
+        },
+        {
+          "file": "Frontend_Performance_Profiling_Agent_(FPP).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Performance_Profiling_Agent_(FPP).md",
+          "name": "Jamal Al-Battashi [FPP] \u2014 Frontend Performance Profiling Agent"
+        },
+        {
+          "file": "Frontend_Refactoring_Agent_(FRA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Refactoring_Agent_(FRA).md",
+          "name": "Muhannad Al-Ghafri [FRA] \u2014 Frontend Refactoring Agent"
+        },
+        {
+          "file": "Frontend_Release_Stability_Agent_(FRS).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Release_Stability_Agent_(FRS).md",
+          "name": "Amer Al-Hadrami [FRS] \u2014 Frontend Release Stability Agent"
+        },
+        {
+          "file": "Frontend_Rendering_Optimization_Agent_(FRO).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Rendering_Optimization_Agent_(FRO).md",
+          "name": "Saif Al-Hosni [FRO] \u2014 Frontend Rendering Optimization Agent"
+        },
+        {
+          "file": "Frontend_Security_Agent_(FSA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Security_Agent_(FSA).md",
+          "name": "Saleh Al-Maskari [FSA] \u2014 Frontend Security Agent"
+        },
+        {
+          "file": "Frontend_UX_Consistency_Agent_(FUXC).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_UX_Consistency_Agent_(FUXC).md",
+          "name": "Mazin Al-Shukri [FUXC] \u2014 Frontend UX Consistency Agent"
+        },
+        {
+          "file": "Frontend_Web_Agent_(FWA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Frontend_Web_Agent_(FWA).md",
+          "name": "Younis Al-Balushi [FWA] \u2014 Frontend Web Agent"
+        },
+        {
+          "file": "Micro_Frontend_Agent_(MFA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Micro_Frontend_Agent_(MFA).md",
+          "name": "Harith Al-Tobi [MFA] \u2014 Micro Frontend Agent"
+        },
+        {
+          "file": "PWA_and_Offline_Experience_Agent_(POE).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/PWA_and_Offline_Experience_Agent_(POE).md",
+          "name": "Thabit Al-Mahrouqi [POE] \u2014 PWA and Offline Experience Agent"
+        },
+        {
+          "file": "Reusable_Components_Agent_(RCA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Reusable_Components_Agent_(RCA).md",
+          "name": "Fatma Al-Lawati [RCA] \u2014 Reusable Components Agent"
+        },
+        {
+          "file": "SSR_and_Rendering_Strategy_Agent_(SSR).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/SSR_and_Rendering_Strategy_Agent_(SSR).md",
+          "name": "Suha Al-Farsi [SSR] \u2014 SSR and Rendering Strategy Agent"
+        },
+        {
+          "file": "State_Management_Agent_(SMA).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/State_Management_Agent_(SMA).md",
+          "name": "Hamza Al-Siyabi [SMA] \u2014 State Management Agent"
+        },
+        {
+          "file": "Theme_and_Dark_Mode_Agent_(TDM).md",
+          "path": "AGENTS/04_FRONTEND_WEB_SPECIALISTS/Theme_and_Dark_Mode_Agent_(TDM).md",
+          "name": "Lubna Al-Riyami [TDM] \u2014 Theme and Dark Mode Agent"
+        }
+      ]
+    },
+    {
+      "id": "05_BACKEND_AND_API_SPECIALISTS",
+      "agentCount": 18,
+      "agents": [
+        {
+          "file": "API_Design_Agent_(APID).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/API_Design_Agent_(APID).md",
+          "name": "Kareem Al-Naqbi [APID] \u2014 API Design Agent"
+        },
+        {
+          "file": "API_Documentation_Agent_(APDOC).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/API_Documentation_Agent_(APDOC).md",
+          "name": "Hessa Al-Muhairi [APDOC] \u2014 API Documentation Agent"
+        },
+        {
+          "file": "Authentication_Agent_(AUTH).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Authentication_Agent_(AUTH).md",
+          "name": "Safiya Al-Dhahiri [AUTH] \u2014 Authentication Agent"
+        },
+        {
+          "file": "Authorization_and_RBAC_Agent_(RBAC).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Authorization_and_RBAC_Agent_(RBAC).md",
+          "name": "Tamer Al-Kaabi [RBAC] \u2014 Authorization and RBAC Agent"
+        },
+        {
+          "file": "Backend_Agent_(BEA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Backend_Agent_(BEA).md",
+          "name": "Bilal Al-Khatib [BEA] \u2014 Backend Agent"
+        },
+        {
+          "file": "Backend_Architecture_Agent_(BAA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Backend_Architecture_Agent_(BAA).md",
+          "name": "Sumaya Al-Jabri [BAA] \u2014 Backend Architecture Agent"
+        },
+        {
+          "file": "Backend_Refactoring_Agent_(BRA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Backend_Refactoring_Agent_(BRA).md",
+          "name": "Rashed Al-Tamimi [BRA] \u2014 Backend Refactoring Agent"
+        },
+        {
+          "file": "Background_Jobs_Agent_(BJA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Background_Jobs_Agent_(BJA).md",
+          "name": "Anwar Al-Hammadi [BJA] \u2014 Background Jobs Agent"
+        },
+        {
+          "file": "Business_Logic_Agent_(BLA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Business_Logic_Agent_(BLA).md",
+          "name": "Ziyad Al-Shamsi [BLA] \u2014 Business Logic Agent"
+        },
+        {
+          "file": "Caching_Strategy_Agent_(CSA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Caching_Strategy_Agent_(CSA).md",
+          "name": "Humaid Al-Nuaimi [CSA] \u2014 Caching Strategy Agent"
+        },
+        {
+          "file": "File_Processing_Agent_(FPA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/File_Processing_Agent_(FPA).md",
+          "name": "Obaid Al-Ketbi [FPA] \u2014 File Processing Agent"
+        },
+        {
+          "file": "Multi_Service_Orchestration_Agent_(MSO).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Multi_Service_Orchestration_Agent_(MSO).md",
+          "name": "Shamsa Al-Maktoum [MSO] \u2014 Multi Service Orchestration Agent"
+        },
+        {
+          "file": "Notification_Engine_Agent_(NEA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Notification_Engine_Agent_(NEA).md",
+          "name": "Shamma Al-Mazrouei [NEA] \u2014 Notification Engine Agent"
+        },
+        {
+          "file": "Rate_Limiting_Agent_(RLA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Rate_Limiting_Agent_(RLA).md",
+          "name": "Jawaher Al-Hajri [RLA] \u2014 Rate Limiting Agent"
+        },
+        {
+          "file": "Search_Engine_Agent_(SEA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Search_Engine_Agent_(SEA).md",
+          "name": "Maitha Al-Falasi [SEA] \u2014 Search Engine Agent"
+        },
+        {
+          "file": "Service_Integration_Agent_(SIA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Service_Integration_Agent_(SIA).md",
+          "name": "Alia Al-Suwaidi [SIA] \u2014 Service Integration Agent"
+        },
+        {
+          "file": "Session_Management_Agent_(SEMA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Session_Management_Agent_(SEMA).md",
+          "name": "Abdulla Al-Mansoori [SEMA] \u2014 Session Management Agent"
+        },
+        {
+          "file": "Workflow_Engine_Agent_(WEA).md",
+          "path": "AGENTS/05_BACKEND_AND_API_SPECIALISTS/Workflow_Engine_Agent_(WEA).md",
+          "name": "Rawda Al-Qubaisi [WEA] \u2014 Workflow Engine Agent"
+        }
+      ]
+    },
+    {
+      "id": "06_DATABASE_AND_DATA_FOUNDATION",
+      "agentCount": 18,
+      "agents": [
+        {
+          "file": "Backup_and_Recovery_Agent_(BRA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Backup_and_Recovery_Agent_(BRA).md",
+          "name": "Muna Al-Busaidi [BRA] \u2014 Backup and Recovery Agent"
+        },
+        {
+          "file": "Data_Governance_Agent_(DGA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Governance_Agent_(DGA).md",
+          "name": "Hilal Al-Maskari [DGA] \u2014 Data Governance Agent"
+        },
+        {
+          "file": "Data_Integrity_Agent_(DIA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Integrity_Agent_(DIA).md",
+          "name": "Saqr Al-Rawahi [DIA] \u2014 Data Integrity Agent"
+        },
+        {
+          "file": "Data_Modeling_Agent_(DMA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Modeling_Agent_(DMA).md",
+          "name": "Khadija Al-Balushi [DMA] \u2014 Data Modeling Agent"
+        },
+        {
+          "file": "Data_Retention_Agent_(DRA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Retention_Agent_(DRA).md",
+          "name": "Asila Al-Wahaibi [DRA] \u2014 Data Retention Agent"
+        },
+        {
+          "file": "Data_Validation_Agent_(DVA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Validation_Agent_(DVA).md",
+          "name": "Khalfan Al-Hinai [DVA] \u2014 Data Validation Agent"
+        },
+        {
+          "file": "Data_Warehouse_Agent_(DWH).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Data_Warehouse_Agent_(DWH).md",
+          "name": "Said Al-Ghafri [DWH] \u2014 Data Warehouse Agent"
+        },
+        {
+          "file": "Database_Architect_Agent_(DBA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Database_Architect_Agent_(DBA).md",
+          "name": "Mahmoud Al-Sayed [DBA] \u2014 Database Architect Agent"
+        },
+        {
+          "file": "Database_Performance_Agent_(DBP).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Database_Performance_Agent_(DBP).md",
+          "name": "Siham Al-Saadi [DBP] \u2014 Database Performance Agent"
+        },
+        {
+          "file": "Database_Security_Agent_(DBS).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Database_Security_Agent_(DBS).md",
+          "name": "Faris Al-Abri [DBS] \u2014 Database Security Agent"
+        },
+        {
+          "file": "ERD_Agent_(ERD).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/ERD_Agent_(ERD).md",
+          "name": "Yaqoub Al-Lawati [ERD] \u2014 ERD Agent"
+        },
+        {
+          "file": "ETL_and_ELT_Agent_(ETL).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/ETL_and_ELT_Agent_(ETL).md",
+          "name": "Widad Al-Farsi [ETL] \u2014 ETL and ELT Agent"
+        },
+        {
+          "file": "Indexing_Agent_(IDX).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Indexing_Agent_(IDX).md",
+          "name": "Budoor Al-Habsi [IDX] \u2014 Indexing Agent"
+        },
+        {
+          "file": "Migration_Agent_(MIG).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Migration_Agent_(MIG).md",
+          "name": "Afra Al-Kindi [MIG] \u2014 Migration Agent"
+        },
+        {
+          "file": "Partitioning_Agent_(PAR).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Partitioning_Agent_(PAR).md",
+          "name": "Hind Al-Kharusi [PAR] \u2014 Partitioning Agent"
+        },
+        {
+          "file": "Query_Optimization_Agent_(QOA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Query_Optimization_Agent_(QOA).md",
+          "name": "Hatem Al-Siyabi [QOA] \u2014 Query Optimization Agent"
+        },
+        {
+          "file": "Reporting_Schema_Agent_(RSA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Reporting_Schema_Agent_(RSA).md",
+          "name": "Rahma Al-Riyami [RSA] \u2014 Reporting Schema Agent"
+        },
+        {
+          "file": "Schema_Evolution_Agent_(SEA).md",
+          "path": "AGENTS/06_DATABASE_AND_DATA_FOUNDATION/Schema_Evolution_Agent_(SEA).md",
+          "name": "Naif Al-Mahrouqi [SEA] \u2014 Schema Evolution Agent"
+        }
+      ]
+    },
+    {
+      "id": "07_MOBILE_SPECIALISTS",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "App_Store_Compliance_Agent_(ASC).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/App_Store_Compliance_Agent_(ASC).md",
+          "name": "Intisar Al-Ismaili [ASC] \u2014 App Store Compliance Agent"
+        },
+        {
+          "file": "Cross_Platform_Mobile_Agent_(CPM).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Cross_Platform_Mobile_Agent_(CPM).md",
+          "name": "Raya Al-Lawati [CPM] \u2014 Cross Platform Mobile Agent"
+        },
+        {
+          "file": "Mobile_App_Agent_(MAPP).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_App_Agent_(MAPP).md",
+          "name": "Lamya Al-Zadjali [MAPP] \u2014 Mobile App Agent"
+        },
+        {
+          "file": "Mobile_App_Architect_Agent_(MAA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_App_Architect_Agent_(MAA).md",
+          "name": "Othman Al-Tobi [MAA] \u2014 Mobile App Architect Agent"
+        },
+        {
+          "file": "Mobile_Device_Integration_Agent_(MDI).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Device_Integration_Agent_(MDI).md",
+          "name": "Sabah Al-Shukaili [MDI] \u2014 Mobile Device Integration Agent"
+        },
+        {
+          "file": "Mobile_Notification_Agent_(MNA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Notification_Agent_(MNA).md",
+          "name": "Haitham Al-Hosni [MNA] \u2014 Mobile Notification Agent"
+        },
+        {
+          "file": "Mobile_Offline_Sync_Agent_(MOS).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Offline_Sync_Agent_(MOS).md",
+          "name": "Nasra Al-Mamari [MOS] \u2014 Mobile Offline Sync Agent"
+        },
+        {
+          "file": "Mobile_Performance_Agent_(MPA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Performance_Agent_(MPA).md",
+          "name": "Mukhtar Al-Battashi [MPA] \u2014 Mobile Performance Agent"
+        },
+        {
+          "file": "Mobile_Release_Agent_(MRA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Release_Agent_(MRA).md",
+          "name": "Tariq Al-Wahbi [MRA] \u2014 Mobile Release Agent"
+        },
+        {
+          "file": "Mobile_Security_Agent_(MSA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Security_Agent_(MSA).md",
+          "name": "Zubaida Al-Harthi [MSA] \u2014 Mobile Security Agent"
+        },
+        {
+          "file": "Mobile_State_Management_Agent_(MSM).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_State_Management_Agent_(MSM).md",
+          "name": "Adnan Al-Balushi [MSM] \u2014 Mobile State Management Agent"
+        },
+        {
+          "file": "Mobile_Testing_Agent_(MTA).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_Testing_Agent_(MTA).md",
+          "name": "Ghalib Al-Hadrami [MTA] \u2014 Mobile Testing Agent"
+        },
+        {
+          "file": "Mobile_UI_Agent_(MUI).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_UI_Agent_(MUI).md",
+          "name": "Hashim Al-Shukri [MUI] \u2014 Mobile UI Agent"
+        },
+        {
+          "file": "Mobile_UX_Agent_(MUX).md",
+          "path": "AGENTS/07_MOBILE_SPECIALISTS/Mobile_UX_Agent_(MUX).md",
+          "name": "Ahlam Al-Rashdi [MUX] \u2014 Mobile UX Agent"
+        }
+      ]
+    },
+    {
+      "id": "08_DESKTOP_SPECIALISTS",
+      "agentCount": 15,
+      "agents": [
+        {
+          "file": "Desktop_App_Agent_(DAA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_App_Agent_(DAA).md",
+          "name": "Murad Al-Kindi [DAA] \u2014 Desktop App Agent"
+        },
+        {
+          "file": "Desktop_Architecture_Agent_(DTA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_Architecture_Agent_(DTA).md",
+          "name": "Najla Al-Siyabi [DTA] \u2014 Desktop Architecture Agent"
+        },
+        {
+          "file": "Desktop_Packaging_Agent_(DPA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_Packaging_Agent_(DPA).md",
+          "name": "Nizar Al-Wahaibi [DPA] \u2014 Desktop Packaging Agent"
+        },
+        {
+          "file": "Desktop_Performance_Agent_(DPAF).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_Performance_Agent_(DPAF).md",
+          "name": "Naima Al-Abri [DPAF] \u2014 Desktop Performance Agent"
+        },
+        {
+          "file": "Desktop_Security_Agent_(DSA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_Security_Agent_(DSA).md",
+          "name": "Maysoon Al-Mahrouqi [DSA] \u2014 Desktop Security Agent"
+        },
+        {
+          "file": "Desktop_UI_Agent_(DUI).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Desktop_UI_Agent_(DUI).md",
+          "name": "Shihab Al-Saadi [DUI] \u2014 Desktop UI Agent"
+        },
+        {
+          "file": "Filesystem_Agent_(FSA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Filesystem_Agent_(FSA).md",
+          "name": "Bassam Al-Habsi [FSA] \u2014 Filesystem Agent"
+        },
+        {
+          "file": "Installer_Agent_(INS).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Installer_Agent_(INS).md",
+          "name": "Samah Al-Hinai [INS] \u2014 Installer Agent"
+        },
+        {
+          "file": "Local_Process_Control_Agent_(LPC).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Local_Process_Control_Agent_(LPC).md",
+          "name": "Warda Al-Maskari [LPC] \u2014 Local Process Control Agent"
+        },
+        {
+          "file": "Local_Storage_Agent_(LSA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Local_Storage_Agent_(LSA).md",
+          "name": "Habib Al-Kharusi [LSA] \u2014 Local Storage Agent"
+        },
+        {
+          "file": "OS_Integration_Agent_(OSI).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/OS_Integration_Agent_(OSI).md",
+          "name": "Buthaina Al-Ghafri [OSI] \u2014 OS Integration Agent"
+        },
+        {
+          "file": "Plugin_and_Extension_Agent_(PEA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Plugin_and_Extension_Agent_(PEA).md",
+          "name": "Yasser Al-Farsi [PEA] \u2014 Plugin and Extension Agent"
+        },
+        {
+          "file": "Terminal_Execution_Agent_(TEA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Terminal_Execution_Agent_(TEA).md",
+          "name": "Jamil Al-Busaidi [TEA] \u2014 Terminal Execution Agent"
+        },
+        {
+          "file": "Update_Manager_Agent_(UMA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Update_Manager_Agent_(UMA).md",
+          "name": "Karim Al-Riyami [UMA] \u2014 Update Manager Agent"
+        },
+        {
+          "file": "Workspace_Management_Agent_(WMA).md",
+          "path": "AGENTS/08_DESKTOP_SPECIALISTS/Workspace_Management_Agent_(WMA).md",
+          "name": "Tahani Al-Rawahi [WMA] \u2014 Workspace Management Agent"
+        }
+      ]
+    },
+    {
+      "id": "09_AI_LLM_RAG_AND_MULTI_AGENT",
+      "agentCount": 22,
+      "agents": [
+        {
+          "file": "AI_Architect_Agent_(AIA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Architect_Agent_(AIA).md",
+          "name": "Mustafa Al-Tobi [AIA] \u2014 AI Architect Agent"
+        },
+        {
+          "file": "AI_Cost_Optimization_Agent_(AICO).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Cost_Optimization_Agent_(AICO).md",
+          "name": "Badr Al-Hadrami [AICO] \u2014 AI Cost Optimization Agent"
+        },
+        {
+          "file": "AI_Evaluation_Agent_(AIE).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Evaluation_Agent_(AIE).md",
+          "name": "Saud Al-Wahbi [AIE] \u2014 AI Evaluation Agent"
+        },
+        {
+          "file": "AI_Guardrails_Agent_(AIG).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Guardrails_Agent_(AIG).md",
+          "name": "Fatima Al-Ismaili [AIG] \u2014 AI Guardrails Agent"
+        },
+        {
+          "file": "AI_Observability_Agent_(AIO).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Observability_Agent_(AIO).md",
+          "name": "Thamer Al-Busaidi [AIO] \u2014 AI Observability Agent"
+        },
+        {
+          "file": "AI_Response_Quality_Agent_(AIRQ).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Response_Quality_Agent_(AIRQ).md",
+          "name": "Sharifa Al-Harthi [AIRQ] \u2014 AI Response Quality Agent"
+        },
+        {
+          "file": "AI_Safety_Review_Agent_(AISR).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Safety_Review_Agent_(AISR).md",
+          "name": "Salim Al-Kindi [AISR] \u2014 AI Safety Review Agent"
+        },
+        {
+          "file": "AI_Workflow_Orchestration_Agent_(AIWO).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/AI_Workflow_Orchestration_Agent_(AIWO).md",
+          "name": "Majed Al-Habsi [AIWO] \u2014 AI Workflow Orchestration Agent"
+        },
+        {
+          "file": "Agent_Memory_Manager_(AMM).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Agent_Memory_Manager_(AMM).md",
+          "name": "Huda Al-Lawati [AMM] \u2014 Agent Memory Manager"
+        },
+        {
+          "file": "Context_Management_Agent_(CMA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Context_Management_Agent_(CMA).md",
+          "name": "Hamdan Al-Battashi [CMA] \u2014 Context Management Agent"
+        },
+        {
+          "file": "Embeddings_Agent_(EMB).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Embeddings_Agent_(EMB).md",
+          "name": "Khalifa Al-Hosni [EMB] \u2014 Embeddings Agent"
+        },
+        {
+          "file": "Fine_Tuning_Strategy_Agent_(FTS).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Fine_Tuning_Strategy_Agent_(FTS).md",
+          "name": "Nouf Al-Maskari [FTS] \u2014 Fine Tuning Strategy Agent"
+        },
+        {
+          "file": "Inference_Optimization_Agent_(IOA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Inference_Optimization_Agent_(IOA).md",
+          "name": "Dalal Al-Rawahi [IOA] \u2014 Inference Optimization Agent"
+        },
+        {
+          "file": "Knowledge_Grounding_Agent_(KGA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Knowledge_Grounding_Agent_(KGA).md",
+          "name": "Aisha Al-Hinai [KGA] \u2014 Knowledge Grounding Agent"
+        },
+        {
+          "file": "LLM_Routing_Agent_(LLMR).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/LLM_Routing_Agent_(LLMR).md",
+          "name": "Fawaz Al-Shukri [LLMR] \u2014 LLM Routing Agent"
+        },
+        {
+          "file": "Model_Selection_Agent_(MSA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Model_Selection_Agent_(MSA).md",
+          "name": "Asrar Al-Rashdi [MSA] \u2014 Model Selection Agent"
+        },
+        {
+          "file": "Multi_Agent_Collaboration_Agent_(MAC).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Multi_Agent_Collaboration_Agent_(MAC).md",
+          "name": "Nayef Al-Balushi [MAC] \u2014 Multi Agent Collaboration Agent"
+        },
+        {
+          "file": "Prompt_Engineering_Agent_(PEG).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Prompt_Engineering_Agent_(PEG).md",
+          "name": "Wijdan Al-Zadjali [PEG] \u2014 Prompt Engineering Agent"
+        },
+        {
+          "file": "RAG_Architect_Agent_(RAG).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/RAG_Architect_Agent_(RAG).md",
+          "name": "Suad Al-Mamari [RAG] \u2014 RAG Architect Agent"
+        },
+        {
+          "file": "Semantic_Search_Agent_(SSA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Semantic_Search_Agent_(SSA).md",
+          "name": "Ghanem Al-Wahaibi [SSA] \u2014 Semantic Search Agent"
+        },
+        {
+          "file": "Tool_Invocation_Agent_(TIA).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Tool_Invocation_Agent_(TIA).md",
+          "name": "Rawan Al-Siyabi [TIA] \u2014 Tool Invocation Agent"
+        },
+        {
+          "file": "Vector_Database_Agent_(VDB).md",
+          "path": "AGENTS/09_AI_LLM_RAG_AND_MULTI_AGENT/Vector_Database_Agent_(VDB).md",
+          "name": "Maha Al-Shukaili [VDB] \u2014 Vector Database Agent"
+        }
+      ]
+    },
+    {
+      "id": "10_QA_TESTING_AND_VALIDATION",
+      "agentCount": 19,
+      "agents": [
+        {
+          "file": "Accessibility_Testing_Agent_(AXT).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Accessibility_Testing_Agent_(AXT).md",
+          "name": "Hala Al-Hadrami [AXT] \u2014 Accessibility Testing Agent"
+        },
+        {
+          "file": "Browser_Testing_Agent_(BTA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Browser_Testing_Agent_(BTA).md",
+          "name": "Muath Al-Ismaili [BTA] \u2014 Browser Testing Agent"
+        },
+        {
+          "file": "Bug_Reproduction_Agent_(BRA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Bug_Reproduction_Agent_(BRA).md",
+          "name": "Amani Al-Shukri [BRA] \u2014 Bug Reproduction Agent"
+        },
+        {
+          "file": "Cross_Platform_Testing_Agent_(CPT).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Cross_Platform_Testing_Agent_(CPT).md",
+          "name": "Fahd Al-Rashdi [CPT] \u2014 Cross Platform Testing Agent"
+        },
+        {
+          "file": "End_to_End_Testing_Agent_(E2E).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/End_to_End_Testing_Agent_(E2E).md",
+          "name": "Samia Al-Abri [E2E] \u2014 End to End Testing Agent"
+        },
+        {
+          "file": "Integration_Testing_Agent_(ITA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Integration_Testing_Agent_(ITA).md",
+          "name": "Walid Al-Kharusi [ITA] \u2014 Integration Testing Agent"
+        },
+        {
+          "file": "Load_Testing_Agent_(LTA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Load_Testing_Agent_(LTA).md",
+          "name": "Nabil Al-Mamari [LTA] \u2014 Load Testing Agent"
+        },
+        {
+          "file": "Manual_QA_Agent_(MQA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Manual_QA_Agent_(MQA).md",
+          "name": "Hayat Al-Ghafri [MQA] \u2014 Manual QA Agent"
+        },
+        {
+          "file": "Performance_Testing_Agent_(PTA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Performance_Testing_Agent_(PTA).md",
+          "name": "Bushra Al-Battashi [PTA] \u2014 Performance Testing Agent"
+        },
+        {
+          "file": "QA_Automation_Agent_(QAA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/QA_Automation_Agent_(QAA).md",
+          "name": "Samir Al-Riyami [QAA] \u2014 QA Automation Agent"
+        },
+        {
+          "file": "Regression_Testing_Agent_(RTA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Regression_Testing_Agent_(RTA).md",
+          "name": "Adil Al-Farsi [RTA] \u2014 Regression Testing Agent"
+        },
+        {
+          "file": "Reliability_Testing_Agent_(RLY).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Reliability_Testing_Agent_(RLY).md",
+          "name": "Issam Al-Shukaili [RLY] \u2014 Reliability Testing Agent"
+        },
+        {
+          "file": "Security_Testing_Coordination_Agent_(STC).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Security_Testing_Coordination_Agent_(STC).md",
+          "name": "Zuhair Al-Harthi [STC] \u2014 Security Testing Coordination Agent"
+        },
+        {
+          "file": "Stress_Testing_Agent_(STA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Stress_Testing_Agent_(STA).md",
+          "name": "Ghalia Al-Hosni [STA] \u2014 Stress Testing Agent"
+        },
+        {
+          "file": "Test_Case_Writing_Agent_(TCW).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Test_Case_Writing_Agent_(TCW).md",
+          "name": "Laila Al-Tobi [TCW] \u2014 Test Case Writing Agent"
+        },
+        {
+          "file": "Test_Data_Generation_Agent_(TDG).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Test_Data_Generation_Agent_(TDG).md",
+          "name": "Rashad Al-Zadjali [TDG] \u2014 Test Data Generation Agent"
+        },
+        {
+          "file": "UAT_Agent_(UAT).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/UAT_Agent_(UAT).md",
+          "name": "Hamoud Al-Saadi [UAT] \u2014 UAT Agent"
+        },
+        {
+          "file": "Unit_Testing_Agent_(UTA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Unit_Testing_Agent_(UTA).md",
+          "name": "Maryam Al-Mahrouqi [UTA] \u2014 Unit Testing Agent"
+        },
+        {
+          "file": "Visual_Regression_Agent_(VRA).md",
+          "path": "AGENTS/10_QA_TESTING_AND_VALIDATION/Visual_Regression_Agent_(VRA).md",
+          "name": "Rim Al-Wahbi [VRA] \u2014 Visual Regression Agent"
+        }
+      ]
+    },
+    {
+      "id": "11_SECURITY_PRIVACY_AND_COMPLIANCE",
+      "agentCount": 17,
+      "agents": [
+        {
+          "file": "Access_Review_Agent_(ARA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Access_Review_Agent_(ARA).md",
+          "name": "Aziza Al-Ghafri [ARA] \u2014 Access Review Agent"
+        },
+        {
+          "file": "Audit_Trail_Agent_(ATA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Audit_Trail_Agent_(ATA).md",
+          "name": "Badria Al-Maskari [ATA] \u2014 Audit Trail Agent"
+        },
+        {
+          "file": "Compliance_Agent_(CMP).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Compliance_Agent_(CMP).md",
+          "name": "Sheikha Al-Rawahi [CMP] \u2014 Compliance Agent"
+        },
+        {
+          "file": "Data_Privacy_Controls_Agent_(DPC).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Data_Privacy_Controls_Agent_(DPC).md",
+          "name": "Nasir Al-Farsi [DPC] \u2014 Data Privacy Controls Agent"
+        },
+        {
+          "file": "Encryption_Strategy_Agent_(ESA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Encryption_Strategy_Agent_(ESA).md",
+          "name": "Thuraya Al-Mahrouqi [ESA] \u2014 Encryption Strategy Agent"
+        },
+        {
+          "file": "GDPR_and_Privacy_Agent_(GDPR).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/GDPR_and_Privacy_Agent_(GDPR).md",
+          "name": "Yousuf Al-Busaidi [GDPR] \u2014 GDPR and Privacy Agent"
+        },
+        {
+          "file": "IAM_Agent_(IAM).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/IAM_Agent_(IAM).md",
+          "name": "Moza Al-Siyabi [IAM] \u2014 IAM Agent"
+        },
+        {
+          "file": "Penetration_Test_Planning_Agent_(PTP).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Penetration_Test_Planning_Agent_(PTP).md",
+          "name": "Hanan Al-Hinai [PTP] \u2014 Penetration Test Planning Agent"
+        },
+        {
+          "file": "Policy_Enforcement_Agent_(PEA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Policy_Enforcement_Agent_(PEA).md",
+          "name": "Talib Al-Saadi [PEA] \u2014 Policy Enforcement Agent"
+        },
+        {
+          "file": "Secrets_Management_Agent_(SMA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Secrets_Management_Agent_(SMA).md",
+          "name": "Hamad Al-Habsi [SMA] \u2014 Secrets Management Agent"
+        },
+        {
+          "file": "Secure_Coding_Agent_(SCA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Secure_Coding_Agent_(SCA).md",
+          "name": "Nawal Al-Lawati [SCA] \u2014 Secure Coding Agent"
+        },
+        {
+          "file": "Secure_Deployment_Agent_(SDA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Secure_Deployment_Agent_(SDA).md",
+          "name": "Juma Al-Kharusi [SDA] \u2014 Secure Deployment Agent"
+        },
+        {
+          "file": "Security_Architect_Agent_(SARC).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Security_Architect_Agent_(SARC).md",
+          "name": "Abdulaziz Al-Balushi [SARC] \u2014 Security Architect Agent"
+        },
+        {
+          "file": "Security_Incident_Agent_(SIA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Security_Incident_Agent_(SIA).md",
+          "name": "Mubarak Al-Riyami [SIA] \u2014 Security Incident Agent"
+        },
+        {
+          "file": "Security_Logging_Agent_(SLA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Security_Logging_Agent_(SLA).md",
+          "name": "Hafsa Al-Abri [SLA] \u2014 Security Logging Agent"
+        },
+        {
+          "file": "Threat_Modeling_Agent_(TMA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Threat_Modeling_Agent_(TMA).md",
+          "name": "Suleiman Al-Wahaibi [TMA] \u2014 Threat Modeling Agent"
+        },
+        {
+          "file": "Vulnerability_Scanning_Agent_(VSA).md",
+          "path": "AGENTS/11_SECURITY_PRIVACY_AND_COMPLIANCE/Vulnerability_Scanning_Agent_(VSA).md",
+          "name": "Faisal Al-Kindi [VSA] \u2014 Vulnerability Scanning Agent"
+        }
+      ]
+    },
+    {
+      "id": "12_DEVOPS_INFRASTRUCTURE_AND_CLOUD",
+      "agentCount": 18,
+      "agents": [
+        {
+          "file": "Alerting_Agent_(ALT).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Alerting_Agent_(ALT).md",
+          "name": "Ruqaya Al-Ismaili [ALT] \u2014 Alerting Agent"
+        },
+        {
+          "file": "CI_and_CD_Pipeline_Agent_(CICD).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/CI_and_CD_Pipeline_Agent_(CICD).md",
+          "name": "Mazin Al-Shukri [CICD] \u2014 CI and CD Pipeline Agent"
+        },
+        {
+          "file": "Capacity_Planning_Agent_(CPA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Capacity_Planning_Agent_(CPA).md",
+          "name": "Najla Al-Siyabi [CPA] \u2014 Capacity Planning Agent"
+        },
+        {
+          "file": "Containerization_Agent_(CTA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Containerization_Agent_(CTA).md",
+          "name": "Thuraya Al-Mamari [CTA] \u2014 Containerization Agent"
+        },
+        {
+          "file": "Cost_and_FinOps_Agent_(FIN).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Cost_and_FinOps_Agent_(FIN).md",
+          "name": "Raya Al-Lawati [FIN] \u2014 Cost and FinOps Agent"
+        },
+        {
+          "file": "Deployment_Agent_(DEP).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Deployment_Agent_(DEP).md",
+          "name": "Ibtisam Al-Rashdi [DEP] \u2014 Deployment Agent"
+        },
+        {
+          "file": "DevOps_Agent_(DVO).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/DevOps_Agent_(DVO).md",
+          "name": "Khalid Al-Tobi [DVO] \u2014 DevOps Agent"
+        },
+        {
+          "file": "Disaster_Recovery_Agent_(DRA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Disaster_Recovery_Agent_(DRA).md",
+          "name": "Adnan Al-Balushi [DRA] \u2014 Disaster Recovery Agent"
+        },
+        {
+          "file": "Environment_Configuration_Agent_(ECA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Environment_Configuration_Agent_(ECA).md",
+          "name": "Jamal Al-Battashi [ECA] \u2014 Environment Configuration Agent"
+        },
+        {
+          "file": "Infrastructure_Security_Agent_(ISA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Infrastructure_Security_Agent_(ISA).md",
+          "name": "Murad Al-Kindi [ISA] \u2014 Infrastructure Security Agent"
+        },
+        {
+          "file": "Infrastructure_as_Code_Agent_(IAC).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Infrastructure_as_Code_Agent_(IAC).md",
+          "name": "Sawsan Al-Zadjali [IAC] \u2014 Infrastructure as Code Agent"
+        },
+        {
+          "file": "Logging_Agent_(LOG).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Logging_Agent_(LOG).md",
+          "name": "Munir Al-Wahbi [LOG] \u2014 Logging Agent"
+        },
+        {
+          "file": "Monitoring_Agent_(MON).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Monitoring_Agent_(MON).md",
+          "name": "Saif Al-Hosni [MON] \u2014 Monitoring Agent"
+        },
+        {
+          "file": "Network_Architecture_Agent_(NAA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Network_Architecture_Agent_(NAA).md",
+          "name": "Bassam Al-Habsi [NAA] \u2014 Network Architecture Agent"
+        },
+        {
+          "file": "Observability_Agent_(OBS).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Observability_Agent_(OBS).md",
+          "name": "Halima Al-Shukaili [OBS] \u2014 Observability Agent"
+        },
+        {
+          "file": "Release_Infrastructure_Agent_(RIA).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Release_Infrastructure_Agent_(RIA).md",
+          "name": "Tahani Al-Rawahi [RIA] \u2014 Release Infrastructure Agent"
+        },
+        {
+          "file": "Reliability_and_SRE_Agent_(SRE).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Reliability_and_SRE_Agent_(SRE).md",
+          "name": "Amer Al-Hadrami [SRE] \u2014 Reliability and SRE Agent"
+        },
+        {
+          "file": "Rollback_Agent_(RBK).md",
+          "path": "AGENTS/12_DEVOPS_INFRASTRUCTURE_AND_CLOUD/Rollback_Agent_(RBK).md",
+          "name": "Zubaida Al-Harthi [RBK] \u2014 Rollback Agent"
+        }
+      ]
+    },
+    {
+      "id": "13_ENTERPRISE_SAAS_AND_PLATFORM",
+      "agentCount": 15,
+      "agents": [
+        {
+          "file": "Billing_Logic_Agent_(BLA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Billing_Logic_Agent_(BLA).md",
+          "name": "Nizar Al-Wahaibi [BLA] \u2014 Billing Logic Agent"
+        },
+        {
+          "file": "Client_Onboarding_Agent_(COA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Client_Onboarding_Agent_(COA).md",
+          "name": "Habib Al-Kharusi [COA] \u2014 Client Onboarding Agent"
+        },
+        {
+          "file": "Customer_Provisioning_Agent_(CPA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Customer_Provisioning_Agent_(CPA).md",
+          "name": "Hashim Al-Shukri [CPA] \u2014 Customer Provisioning Agent"
+        },
+        {
+          "file": "Customer_Workspace_Agent_(CWA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Customer_Workspace_Agent_(CWA).md",
+          "name": "Naima Al-Abri [CWA] \u2014 Customer Workspace Agent"
+        },
+        {
+          "file": "Enterprise_Configuration_Agent_(ECA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Enterprise_Configuration_Agent_(ECA).md",
+          "name": "Ahlam Al-Rashdi [ECA] \u2014 Enterprise Configuration Agent"
+        },
+        {
+          "file": "License_Enforcement_Agent_(LEA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/License_Enforcement_Agent_(LEA).md",
+          "name": "Karim Al-Riyami [LEA] \u2014 License Enforcement Agent"
+        },
+        {
+          "file": "Multi_Tenant_Architecture_Agent_(MTA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Multi_Tenant_Architecture_Agent_(MTA).md",
+          "name": "Jamil Al-Busaidi [MTA] \u2014 Multi Tenant Architecture Agent"
+        },
+        {
+          "file": "Organization_Management_Agent_(OMA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Organization_Management_Agent_(OMA).md",
+          "name": "Shihab Al-Saadi [OMA] \u2014 Organization Management Agent"
+        },
+        {
+          "file": "Quota_Management_Agent_(QMA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Quota_Management_Agent_(QMA).md",
+          "name": "Yasser Al-Farsi [QMA] \u2014 Quota Management Agent"
+        },
+        {
+          "file": "SLA_Management_Agent_(SLM).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/SLA_Management_Agent_(SLM).md",
+          "name": "Lamya Al-Zadjali [SLM] \u2014 SLA Management Agent"
+        },
+        {
+          "file": "Subscription_Lifecycle_Agent_(SLA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Subscription_Lifecycle_Agent_(SLA).md",
+          "name": "Samah Al-Hinai [SLA] \u2014 Subscription Lifecycle Agent"
+        },
+        {
+          "file": "Tenant_Branding_Agent_(TBA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Tenant_Branding_Agent_(TBA).md",
+          "name": "Mukhtar Al-Battashi [TBA] \u2014 Tenant Branding Agent"
+        },
+        {
+          "file": "Tenant_Isolation_Agent_(TIA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Tenant_Isolation_Agent_(TIA).md",
+          "name": "Warda Al-Maskari [TIA] \u2014 Tenant Isolation Agent"
+        },
+        {
+          "file": "Usage_Tracking_Agent_(UTA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/Usage_Tracking_Agent_(UTA).md",
+          "name": "Buthaina Al-Ghafri [UTA] \u2014 Usage Tracking Agent"
+        },
+        {
+          "file": "White_Label_Agent_(WLA).md",
+          "path": "AGENTS/13_ENTERPRISE_SAAS_AND_PLATFORM/White_Label_Agent_(WLA).md",
+          "name": "Maysoon Al-Mahrouqi [WLA] \u2014 White Label Agent"
+        }
+      ]
+    },
+    {
+      "id": "14_DOCUMENTATION_TRAINING_AND_COMMUNICATION",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "API_Reference_Writer_Agent_(ARW).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/API_Reference_Writer_Agent_(ARW).md",
+          "name": "Bassam Al-Habsi [ARW] \u2014 API Reference Writer Agent"
+        },
+        {
+          "file": "Client_Communication_Agent_(CCA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Client_Communication_Agent_(CCA).md",
+          "name": "Najla Al-Siyabi [CCA] \u2014 Client Communication Agent"
+        },
+        {
+          "file": "Decision_Log_Agent_(DLA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Decision_Log_Agent_(DLA).md",
+          "name": "Jamil Al-Busaidi [DLA] \u2014 Decision Log Agent"
+        },
+        {
+          "file": "Documentation_Agent_(DOC).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Documentation_Agent_(DOC).md",
+          "name": "Nasra Al-Mamari [DOC] \u2014 Documentation Agent"
+        },
+        {
+          "file": "Email_Template_Agent_(ETA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Email_Template_Agent_(ETA).md",
+          "name": "Raya Al-Lawati [ETA] \u2014 Email Template Agent"
+        },
+        {
+          "file": "Help_Center_Agent_(HCA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Help_Center_Agent_(HCA).md",
+          "name": "Adnan Al-Balushi [HCA] \u2014 Help Center Agent"
+        },
+        {
+          "file": "Internal_Process_Documentation_Agent_(IPD).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Internal_Process_Documentation_Agent_(IPD).md",
+          "name": "Tahani Al-Rawahi [IPD] \u2014 Internal Process Documentation Agent"
+        },
+        {
+          "file": "Knowledge_Base_Agent_(KBA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Knowledge_Base_Agent_(KBA).md",
+          "name": "Intisar Al-Ismaili [KBA] \u2014 Knowledge Base Agent"
+        },
+        {
+          "file": "Notification_Copy_Agent_(NCA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Notification_Copy_Agent_(NCA).md",
+          "name": "Murad Al-Kindi [NCA] \u2014 Notification Copy Agent"
+        },
+        {
+          "file": "Onboarding_Guide_Agent_(OGA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Onboarding_Guide_Agent_(OGA).md",
+          "name": "Zubaida Al-Harthi [OGA] \u2014 Onboarding Guide Agent"
+        },
+        {
+          "file": "Release_Notes_Agent_(RNA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Release_Notes_Agent_(RNA).md",
+          "name": "Tariq Al-Wahbi [RNA] \u2014 Release Notes Agent"
+        },
+        {
+          "file": "Technical_Writer_Agent_(TWA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Technical_Writer_Agent_(TWA).md",
+          "name": "Sabah Al-Shukaili [TWA] \u2014 Technical Writer Agent"
+        },
+        {
+          "file": "User_Training_Agent_(UTA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/User_Training_Agent_(UTA).md",
+          "name": "Ghalib Al-Hadrami [UTA] \u2014 User Training Agent"
+        },
+        {
+          "file": "Wiki_Agent_(WKA).md",
+          "path": "AGENTS/14_DOCUMENTATION_TRAINING_AND_COMMUNICATION/Wiki_Agent_(WKA).md",
+          "name": "Haitham Al-Hosni [WKA] \u2014 Wiki Agent"
+        }
+      ]
+    },
+    {
+      "id": "15_MAINTENANCE_SUPPORT_AND_EVOLUTION",
+      "agentCount": 13,
+      "agents": [
+        {
+          "file": "Changelog_Integrity_Agent_(CIA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Changelog_Integrity_Agent_(CIA).md",
+          "name": "Habib Al-Kharusi [CIA] \u2014 Changelog Integrity Agent"
+        },
+        {
+          "file": "Dependency_Upgrade_Agent_(DUA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Dependency_Upgrade_Agent_(DUA).md",
+          "name": "Maysoon Al-Mahrouqi [DUA] \u2014 Dependency Upgrade Agent"
+        },
+        {
+          "file": "Hotfix_Agent_(HFX).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Hotfix_Agent_(HFX).md",
+          "name": "Samah Al-Hinai [HFX] \u2014 Hotfix Agent"
+        },
+        {
+          "file": "Incident_Triage_Agent_(ITA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Incident_Triage_Agent_(ITA).md",
+          "name": "Nizar Al-Wahaibi [ITA] \u2014 Incident Triage Agent"
+        },
+        {
+          "file": "Legacy_Modernization_Agent_(LMA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Legacy_Modernization_Agent_(LMA).md",
+          "name": "Yasser Al-Farsi [LMA] \u2014 Legacy Modernization Agent"
+        },
+        {
+          "file": "Maintenance_Planner_Agent_(MPA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Maintenance_Planner_Agent_(MPA).md",
+          "name": "Shihab Al-Saadi [MPA] \u2014 Maintenance Planner Agent"
+        },
+        {
+          "file": "Production_Support_Agent_(PSA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Production_Support_Agent_(PSA).md",
+          "name": "Othman Al-Tobi [PSA] \u2014 Production Support Agent"
+        },
+        {
+          "file": "Refactoring_Agent_(REF).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Refactoring_Agent_(REF).md",
+          "name": "Karim Al-Riyami [REF] \u2014 Refactoring Agent"
+        },
+        {
+          "file": "Root_Cause_Analysis_Agent_(RCA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Root_Cause_Analysis_Agent_(RCA).md",
+          "name": "Hashim Al-Shukri [RCA] \u2014 Root Cause Analysis Agent"
+        },
+        {
+          "file": "Stability_Improvement_Agent_(SIA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Stability_Improvement_Agent_(SIA).md",
+          "name": "Lamya Al-Zadjali [SIA] \u2014 Stability Improvement Agent"
+        },
+        {
+          "file": "Support_Agent_(SUP).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Support_Agent_(SUP).md",
+          "name": "Warda Al-Maskari [SUP] \u2014 Support Agent"
+        },
+        {
+          "file": "Technical_Debt_Agent_(TDA).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Technical_Debt_Agent_(TDA).md",
+          "name": "Buthaina Al-Ghafri [TDA] \u2014 Technical Debt Agent"
+        },
+        {
+          "file": "Versioning_Agent_(VER).md",
+          "path": "AGENTS/15_MAINTENANCE_SUPPORT_AND_EVOLUTION/Versioning_Agent_(VER).md",
+          "name": "Naima Al-Abri [VER] \u2014 Versioning Agent"
+        }
+      ]
+    },
+    {
+      "id": "16_BUSINESS_OPERATIONS_AND_MANAGEMENT",
+      "agentCount": 12,
+      "agents": [
+        {
+          "file": "Business_Continuity_Agent_(BCA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Business_Continuity_Agent_(BCA).md",
+          "name": "Murad Al-Kindi [BCA] \u2014 Business Continuity Agent"
+        },
+        {
+          "file": "Change_Management_Agent_(CMA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Change_Management_Agent_(CMA).md",
+          "name": "Ghalib Al-Hadrami [CMA] \u2014 Change Management Agent"
+        },
+        {
+          "file": "Contract_Review_Agent_(CRA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Contract_Review_Agent_(CRA).md",
+          "name": "Tariq Al-Wahbi [CRA] \u2014 Contract Review Agent"
+        },
+        {
+          "file": "Executive_Reporting_Agent_(ERA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Executive_Reporting_Agent_(ERA).md",
+          "name": "Raya Al-Lawati [ERA] \u2014 Executive Reporting Agent"
+        },
+        {
+          "file": "Internal_Policy_Alignment_Agent_(IPA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Internal_Policy_Alignment_Agent_(IPA).md",
+          "name": "Intisar Al-Ismaili [IPA] \u2014 Internal Policy Alignment Agent"
+        },
+        {
+          "file": "KPI_Tracking_Agent_(KPI).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/KPI_Tracking_Agent_(KPI).md",
+          "name": "Mukhtar Al-Battashi [KPI] \u2014 KPI Tracking Agent"
+        },
+        {
+          "file": "Process_Improvement_Agent_(PIA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Process_Improvement_Agent_(PIA).md",
+          "name": "Zubaida Al-Harthi [PIA] \u2014 Process Improvement Agent"
+        },
+        {
+          "file": "Procurement_Review_Agent_(PRA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Procurement_Review_Agent_(PRA).md",
+          "name": "Sabah Al-Shukaili [PRA] \u2014 Procurement Review Agent"
+        },
+        {
+          "file": "ROI_Analysis_Agent_(ROI).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/ROI_Analysis_Agent_(ROI).md",
+          "name": "Nasra Al-Mamari [ROI] \u2014 ROI Analysis Agent"
+        },
+        {
+          "file": "Stakeholder_Reporting_Agent_(SRA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Stakeholder_Reporting_Agent_(SRA).md",
+          "name": "Ahlam Al-Rashdi [SRA] \u2014 Stakeholder Reporting Agent"
+        },
+        {
+          "file": "Training_Compliance_Agent_(TCA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Training_Compliance_Agent_(TCA).md",
+          "name": "Adnan Al-Balushi [TCA] \u2014 Training Compliance Agent"
+        },
+        {
+          "file": "Vendor_Management_Agent_(VMA).md",
+          "path": "AGENTS/16_BUSINESS_OPERATIONS_AND_MANAGEMENT/Vendor_Management_Agent_(VMA).md",
+          "name": "Haitham Al-Hosni [VMA] \u2014 Vendor Management Agent"
+        }
+      ]
+    },
+    {
+      "id": "17_WEB3_AND_BLOCKCHAIN",
+      "agentCount": 23,
+      "agents": [
+        {
+          "file": "Blockchain_Event_Indexing_Agent_(BEI).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Blockchain_Event_Indexing_Agent_(BEI).md",
+          "name": "Basma Al-Saadi [BEI] \u2014 Blockchain Event Indexing Agent"
+        },
+        {
+          "file": "Blockchain_Monitoring_Agent_(BMO).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Blockchain_Monitoring_Agent_(BMO).md",
+          "name": "Harith Al-Tobi [BMO] \u2014 Blockchain Monitoring Agent"
+        },
+        {
+          "file": "Blockchain_Security_Audit_Agent_(BSA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Blockchain_Security_Audit_Agent_(BSA).md",
+          "name": "Hamza Al-Siyabi [BSA] \u2014 Blockchain Security Audit Agent"
+        },
+        {
+          "file": "Blockchain_Testing_Agent_(BTA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Blockchain_Testing_Agent_(BTA).md",
+          "name": "Muhannad Al-Ghafri [BTA] \u2014 Blockchain Testing Agent"
+        },
+        {
+          "file": "Cross_Chain_and_Bridge_Integration_Agent_(XCH).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Cross_Chain_and_Bridge_Integration_Agent_(XCH).md",
+          "name": "Lubna Al-Riyami [XCH] \u2014 Cross Chain and Bridge Integration Agent"
+        },
+        {
+          "file": "DeFi_Protocol_Logic_Agent_(DEFI).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/DeFi_Protocol_Logic_Agent_(DEFI).md",
+          "name": "Amal Al-Wahaibi [DEFI] \u2014 DeFi Protocol Logic Agent"
+        },
+        {
+          "file": "Gas_Optimization_Agent_(GAS).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Gas_Optimization_Agent_(GAS).md",
+          "name": "Qasim Al-Rawahi [GAS] \u2014 Gas Optimization Agent"
+        },
+        {
+          "file": "Governance_and_DAO_Logic_Agent_(DAO).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Governance_and_DAO_Logic_Agent_(DAO).md",
+          "name": "Suha Al-Farsi [DAO] \u2014 Governance and DAO Logic Agent"
+        },
+        {
+          "file": "Key_Management_and_Signing_Agent_(KMS).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Key_Management_and_Signing_Agent_(KMS).md",
+          "name": "Sawsan Al-Zadjali [KMS] \u2014 Key Management and Signing Agent"
+        },
+        {
+          "file": "NFT_and_Digital_Asset_Agent_(NFT).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/NFT_and_Digital_Asset_Agent_(NFT).md",
+          "name": "Rashid Al-Hinai [NFT] \u2014 NFT and Digital Asset Agent"
+        },
+        {
+          "file": "Node_Infrastructure_Agent_(NIA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Node_Infrastructure_Agent_(NIA).md",
+          "name": "Mazin Al-Shukri [NIA] \u2014 Node Infrastructure Agent"
+        },
+        {
+          "file": "On_Chain_and_Off_Chain_Integration_Agent_(ONOFF).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/On_Chain_and_Off_Chain_Integration_Agent_(ONOFF).md",
+          "name": "Maryam Al-Busaidi [ONOFF] \u2014 On Chain and Off Chain Integration Agent"
+        },
+        {
+          "file": "Oracle_Integration_Agent_(ORA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Oracle_Integration_Agent_(ORA).md",
+          "name": "Saleh Al-Maskari [ORA] \u2014 Oracle Integration Agent"
+        },
+        {
+          "file": "Rust_Smart_Contract_Agent_(RUST).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Rust_Smart_Contract_Agent_(RUST).md",
+          "name": "Samira Al-Harthi [RUST] \u2014 Rust Smart Contract Agent"
+        },
+        {
+          "file": "Smart_Contract_Architect_Agent_(SCA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Smart_Contract_Architect_Agent_(SCA).md",
+          "name": "Fatma Al-Lawati [SCA] \u2014 Smart Contract Architect Agent"
+        },
+        {
+          "file": "Smart_Contract_Deployment_Agent_(SCD).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Smart_Contract_Deployment_Agent_(SCD).md",
+          "name": "Idris Al-Abri [SCD] \u2014 Smart Contract Deployment Agent"
+        },
+        {
+          "file": "Smart_Contract_Upgradeability_Agent_(SCU).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Smart_Contract_Upgradeability_Agent_(SCU).md",
+          "name": "Nawal Al-Kharusi [SCU] \u2014 Smart Contract Upgradeability Agent"
+        },
+        {
+          "file": "Solidity_Smart_Contract_Agent_(SOL).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Solidity_Smart_Contract_Agent_(SOL).md",
+          "name": "Nasser Al-Kindi [SOL] \u2014 Solidity Smart Contract Agent"
+        },
+        {
+          "file": "Token_Distribution_Agent_(TDA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Token_Distribution_Agent_(TDA).md",
+          "name": "Ibtisam Al-Rashdi [TDA] \u2014 Token Distribution Agent"
+        },
+        {
+          "file": "Tokenomics_Design_Agent_(TOK).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Tokenomics_Design_Agent_(TOK).md",
+          "name": "Younis Al-Balushi [TOK] \u2014 Tokenomics Design Agent"
+        },
+        {
+          "file": "Wallet_Integration_Agent_(WAL).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Wallet_Integration_Agent_(WAL).md",
+          "name": "Zahra Al-Habsi [WAL] \u2014 Wallet Integration Agent"
+        },
+        {
+          "file": "Web3_Compliance_and_Risk_Agent_(W3CR).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Web3_Compliance_and_Risk_Agent_(W3CR).md",
+          "name": "Thabit Al-Mahrouqi [W3CR] \u2014 Web3 Compliance and Risk Agent"
+        },
+        {
+          "file": "Web3_Solution_Architect_Agent_(W3SA).md",
+          "path": "AGENTS/17_WEB3_AND_BLOCKCHAIN/Web3_Solution_Architect_Agent_(W3SA).md",
+          "name": "Rashid Al-Balushi [W3SA] \u2014 Web3 Solution Architect Agent"
+        }
+      ]
+    },
+    {
+      "id": "18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA",
+      "agentCount": 20,
+      "agents": [
+        {
+          "file": "Analytical_Modeling_Agent_(AMA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Analytical_Modeling_Agent_(AMA).md",
+          "name": "Raya Al-Lawati [AMA] \u2014 Analytical Modeling Agent"
+        },
+        {
+          "file": "BI_Integration_Agent_(BII).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/BI_Integration_Agent_(BII).md",
+          "name": "Samah Al-Hinai [BII] \u2014 BI Integration Agent"
+        },
+        {
+          "file": "Batch_Processing_Agent_(BPA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Batch_Processing_Agent_(BPA).md",
+          "name": "Munir Al-Wahbi [BPA] \u2014 Batch Processing Agent"
+        },
+        {
+          "file": "Big_Data_Architect_Agent_(BDA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Big_Data_Architect_Agent_(BDA).md",
+          "name": "Jamal Al-Battashi [BDA] \u2014 Big Data Architect Agent"
+        },
+        {
+          "file": "Big_Data_Cost_Optimization_Agent_(BDCO).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Big_Data_Cost_Optimization_Agent_(BDCO).md",
+          "name": "Najla Al-Siyabi [BDCO] \u2014 Big Data Cost Optimization Agent"
+        },
+        {
+          "file": "Data_Catalog_Agent_(DCA2).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Catalog_Agent_(DCA2).md",
+          "name": "Bassam Al-Habsi [DCA2] \u2014 Data Catalog Agent"
+        },
+        {
+          "file": "Data_Ingestion_Agent_(DIA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Ingestion_Agent_(DIA).md",
+          "name": "Ruqaya Al-Ismaili [DIA] \u2014 Data Ingestion Agent"
+        },
+        {
+          "file": "Data_Lake_Agent_(DLA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Lake_Agent_(DLA).md",
+          "name": "Thuraya Al-Mamari [DLA] \u2014 Data Lake Agent"
+        },
+        {
+          "file": "Data_Lineage_Agent_(DLA2).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Lineage_Agent_(DLA2).md",
+          "name": "Zubaida Al-Harthi [DLA2] \u2014 Data Lineage Agent"
+        },
+        {
+          "file": "Data_Processing_Reliability_Agent_(DPR).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Processing_Reliability_Agent_(DPR).md",
+          "name": "Warda Al-Maskari [DPR] \u2014 Data Processing Reliability Agent"
+        },
+        {
+          "file": "Data_Quality_Agent_(DQA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Quality_Agent_(DQA).md",
+          "name": "Amer Al-Hadrami [DQA] \u2014 Data Quality Agent"
+        },
+        {
+          "file": "Data_Retention_and_Partitioning_Agent_(DRP).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Data_Retention_and_Partitioning_Agent_(DRP).md",
+          "name": "Murad Al-Kindi [DRP] \u2014 Data Retention and Partitioning Agent"
+        },
+        {
+          "file": "Distributed_Compute_Agent_(DCA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Distributed_Compute_Agent_(DCA).md",
+          "name": "Adnan Al-Balushi [DCA] \u2014 Distributed Compute Agent"
+        },
+        {
+          "file": "Distributed_Query_Agent_(DQA2).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Distributed_Query_Agent_(DQA2).md",
+          "name": "Jamil Al-Busaidi [DQA2] \u2014 Distributed Query Agent"
+        },
+        {
+          "file": "Feature_Store_Agent_(FSA2).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Feature_Store_Agent_(FSA2).md",
+          "name": "Buthaina Al-Ghafri [FSA2] \u2014 Feature Store Agent"
+        },
+        {
+          "file": "Lakehouse_Agent_(LKH).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Lakehouse_Agent_(LKH).md",
+          "name": "Saif Al-Hosni [LKH] \u2014 Lakehouse Agent"
+        },
+        {
+          "file": "Metadata_Governance_Agent_(MGA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Metadata_Governance_Agent_(MGA).md",
+          "name": "Tahani Al-Rawahi [MGA] \u2014 Metadata Governance Agent"
+        },
+        {
+          "file": "Real_Time_Analytics_Agent_(RTA2).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Real_Time_Analytics_Agent_(RTA2).md",
+          "name": "Karim Al-Riyami [RTA2] \u2014 Real Time Analytics Agent"
+        },
+        {
+          "file": "Streaming_Data_Pipeline_Agent_(SDP).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Streaming_Data_Pipeline_Agent_(SDP).md",
+          "name": "Halima Al-Shukaili [SDP] \u2014 Streaming Data Pipeline Agent"
+        },
+        {
+          "file": "Warehouse_Performance_Agent_(WPA).md",
+          "path": "AGENTS/18_BIG_DATA_ANALYTICS_AND_DISTRIBUTED_DATA/Warehouse_Performance_Agent_(WPA).md",
+          "name": "Nizar Al-Wahaibi [WPA] \u2014 Warehouse Performance Agent"
+        }
+      ]
+    },
+    {
+      "id": "19_REALTIME_SYSTEMS_AND_EVENT_STREAMING",
+      "agentCount": 17,
+      "agents": [
+        {
+          "file": "Backpressure_and_Throughput_Agent_(BAT).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Backpressure_and_Throughput_Agent_(BAT).md",
+          "name": "Mukhtar Al-Battashi [BAT] \u2014 Backpressure and Throughput Agent"
+        },
+        {
+          "file": "Consumer_Optimization_Agent_(CON).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Consumer_Optimization_Agent_(CON).md",
+          "name": "Lamya Al-Zadjali [CON] \u2014 Consumer Optimization Agent"
+        },
+        {
+          "file": "Distributed_State_Synchronization_Agent_(DSS).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Distributed_State_Synchronization_Agent_(DSS).md",
+          "name": "Intisar Al-Ismaili [DSS] \u2014 Distributed State Synchronization Agent"
+        },
+        {
+          "file": "Event_Driven_Architecture_Agent_(EDA).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Event_Driven_Architecture_Agent_(EDA).md",
+          "name": "Maysoon Al-Mahrouqi [EDA] \u2014 Event Driven Architecture Agent"
+        },
+        {
+          "file": "Event_Persistence_Agent_(EPA).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Event_Persistence_Agent_(EPA).md",
+          "name": "Zubaida Al-Harthi [EPA] \u2014 Event Persistence Agent"
+        },
+        {
+          "file": "Event_Replay_and_Recovery_Agent_(ERR).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Event_Replay_and_Recovery_Agent_(ERR).md",
+          "name": "Haitham Al-Hosni [ERR] \u2014 Event Replay and Recovery Agent"
+        },
+        {
+          "file": "Event_Schema_Registry_Agent_(ESR).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Event_Schema_Registry_Agent_(ESR).md",
+          "name": "Othman Al-Tobi [ESR] \u2014 Event Schema Registry Agent"
+        },
+        {
+          "file": "Kafka_and_Event_Streaming_Agent_(KAFKA).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Kafka_and_Event_Streaming_Agent_(KAFKA).md",
+          "name": "Habib Al-Kharusi [KAFKA] \u2014 Kafka and Event Streaming Agent"
+        },
+        {
+          "file": "Latency_Optimization_Agent_(LAT).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Latency_Optimization_Agent_(LAT).md",
+          "name": "Sabah Al-Shukaili [LAT] \u2014 Latency Optimization Agent"
+        },
+        {
+          "file": "Message_Queue_Reliability_Agent_(MQR).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Message_Queue_Reliability_Agent_(MQR).md",
+          "name": "Naima Al-Abri [MQR] \u2014 Message Queue Reliability Agent"
+        },
+        {
+          "file": "Producer_Optimization_Agent_(PRO).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Producer_Optimization_Agent_(PRO).md",
+          "name": "Hashim Al-Shukri [PRO] \u2014 Producer Optimization Agent"
+        },
+        {
+          "file": "Realtime_Monitoring_Agent_(RTM).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Realtime_Monitoring_Agent_(RTM).md",
+          "name": "Ahlam Al-Rashdi [RTM] \u2014 Realtime Monitoring Agent"
+        },
+        {
+          "file": "Realtime_Scaling_Agent_(RTS).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Realtime_Scaling_Agent_(RTS).md",
+          "name": "Tariq Al-Wahbi [RTS] \u2014 Realtime Scaling Agent"
+        },
+        {
+          "file": "Realtime_Security_Agent_(RTSEC).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Realtime_Security_Agent_(RTSEC).md",
+          "name": "Ghalib Al-Hadrami [RTSEC] \u2014 Realtime Security Agent"
+        },
+        {
+          "file": "Realtime_Systems_Architect_Agent_(RTSA).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Realtime_Systems_Architect_Agent_(RTSA).md",
+          "name": "Yasser Al-Farsi [RTSA] \u2014 Realtime Systems Architect Agent"
+        },
+        {
+          "file": "Stream_Processing_Agent_(SPA2).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/Stream_Processing_Agent_(SPA2).md",
+          "name": "Nasra Al-Mamari [SPA2] \u2014 Stream Processing Agent"
+        },
+        {
+          "file": "WebSocket_and_Socket_Gateway_Agent_(WSG).md",
+          "path": "AGENTS/19_REALTIME_SYSTEMS_AND_EVENT_STREAMING/WebSocket_and_Socket_Gateway_Agent_(WSG).md",
+          "name": "Shihab Al-Saadi [WSG] \u2014 WebSocket and Socket Gateway Agent"
+        }
+      ]
+    },
+    {
+      "id": "20_MCP_ARCHITECTURE_AND_INTEGRATION",
+      "agentCount": 17,
+      "agents": [
+        {
+          "file": "MCP_App_and_UI_Integration_Agent_(MCPUI).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_App_and_UI_Integration_Agent_(MCPUI).md",
+          "name": "Karim Al-Riyami [MCPUI] \u2014 MCP App and UI Integration Agent"
+        },
+        {
+          "file": "MCP_Architect_Agent_(MCPA).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Architect_Agent_(MCPA).md",
+          "name": "Adnan Al-Balushi [MCPA] \u2014 MCP Architect Agent"
+        },
+        {
+          "file": "MCP_Client_Integration_Agent_(MCPC).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Client_Integration_Agent_(MCPC).md",
+          "name": "Murad Al-Kindi [MCPC] \u2014 MCP Client Integration Agent"
+        },
+        {
+          "file": "MCP_Multi_Server_Coordination_Agent_(MCPMSC).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Multi_Server_Coordination_Agent_(MCPMSC).md",
+          "name": "Shihab Al-Saadi [MCPMSC] \u2014 MCP Multi Server Coordination Agent"
+        },
+        {
+          "file": "MCP_Observability_Agent_(MCPO).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Observability_Agent_(MCPO).md",
+          "name": "Naima Al-Abri [MCPO] \u2014 MCP Observability Agent"
+        },
+        {
+          "file": "MCP_Prompt_Contract_Agent_(MCPP).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Prompt_Contract_Agent_(MCPP).md",
+          "name": "Tahani Al-Rawahi [MCPP] \u2014 MCP Prompt Contract Agent"
+        },
+        {
+          "file": "MCP_Resource_Access_Governance_Agent_(MCPRAG).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Resource_Access_Governance_Agent_(MCPRAG).md",
+          "name": "Maysoon Al-Mahrouqi [MCPRAG] \u2014 MCP Resource Access Governance Agent"
+        },
+        {
+          "file": "MCP_Resource_Modeling_Agent_(MCPR).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Resource_Modeling_Agent_(MCPR).md",
+          "name": "Bassam Al-Habsi [MCPR] \u2014 MCP Resource Modeling Agent"
+        },
+        {
+          "file": "MCP_Runtime_Reliability_Agent_(MCPRR).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Runtime_Reliability_Agent_(MCPRR).md",
+          "name": "Habib Al-Kharusi [MCPRR] \u2014 MCP Runtime Reliability Agent"
+        },
+        {
+          "file": "MCP_Security_and_Authorization_Agent_(MCPSA).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Security_and_Authorization_Agent_(MCPSA).md",
+          "name": "Jamil Al-Busaidi [MCPSA] \u2014 MCP Security and Authorization Agent"
+        },
+        {
+          "file": "MCP_Server_Agent_(MCPS).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Server_Agent_(MCPS).md",
+          "name": "Raya Al-Lawati [MCPS] \u2014 MCP Server Agent"
+        },
+        {
+          "file": "MCP_Testing_and_Compliance_Agent_(MCPTC).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Testing_and_Compliance_Agent_(MCPTC).md",
+          "name": "Buthaina Al-Ghafri [MCPTC] \u2014 MCP Testing and Compliance Agent"
+        },
+        {
+          "file": "MCP_Tool_Design_Agent_(MCPT).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Tool_Design_Agent_(MCPT).md",
+          "name": "Najla Al-Siyabi [MCPT] \u2014 MCP Tool Design Agent"
+        },
+        {
+          "file": "MCP_Tool_Permission_Agent_(MCPPER).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Tool_Permission_Agent_(MCPPER).md",
+          "name": "Yasser Al-Farsi [MCPPER] \u2014 MCP Tool Permission Agent"
+        },
+        {
+          "file": "MCP_Tool_Registry_Agent_(MCPTR).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Tool_Registry_Agent_(MCPTR).md",
+          "name": "Nizar Al-Wahaibi [MCPTR] \u2014 MCP Tool Registry Agent"
+        },
+        {
+          "file": "MCP_Transport_and_Session_Agent_(MCPTS).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Transport_and_Session_Agent_(MCPTS).md",
+          "name": "Warda Al-Maskari [MCPTS] \u2014 MCP Transport and Session Agent"
+        },
+        {
+          "file": "MCP_Workflow_Composition_Agent_(MCPW).md",
+          "path": "AGENTS/20_MCP_ARCHITECTURE_AND_INTEGRATION/MCP_Workflow_Composition_Agent_(MCPW).md",
+          "name": "Samah Al-Hinai [MCPW] \u2014 MCP Workflow Composition Agent"
+        }
+      ]
+    },
+    {
+      "id": "21_N8N_AUTOMATION_AND_WORKFLOW",
+      "agentCount": 16,
+      "agents": [
+        {
+          "file": "n8n_AI_Agent_Workflow_Agent_(N8NAI).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_AI_Agent_Workflow_Agent_(N8NAI).md",
+          "name": "Hashim Al-Shukri [N8NAI] \u2014 n8n AI Agent Workflow Agent"
+        },
+        {
+          "file": "n8n_Automation_Builder_Agent_(N8NAB).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Automation_Builder_Agent_(N8NAB).md",
+          "name": "Lamya Al-Zadjali [N8NAB] \u2014 n8n Automation Builder Agent"
+        },
+        {
+          "file": "n8n_Custom_Node_Agent_(N8NCN).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Custom_Node_Agent_(N8NCN).md",
+          "name": "Mukhtar Al-Battashi [N8NCN] \u2014 n8n Custom Node Agent"
+        },
+        {
+          "file": "n8n_Data_Mapping_Agent_(N8NDM).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Data_Mapping_Agent_(N8NDM).md",
+          "name": "Najla Al-Siyabi [N8NDM] \u2014 n8n Data Mapping Agent"
+        },
+        {
+          "file": "n8n_Deployment_Agent_(N8NDEP).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Deployment_Agent_(N8NDEP).md",
+          "name": "Raya Al-Lawati [N8NDEP] \u2014 n8n Deployment Agent"
+        },
+        {
+          "file": "n8n_Error_Handling_Agent_(N8NEH).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Error_Handling_Agent_(N8NEH).md",
+          "name": "Nasra Al-Mamari [N8NEH] \u2014 n8n Error Handling Agent"
+        },
+        {
+          "file": "n8n_Integration_Mapping_Agent_(N8NIM).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Integration_Mapping_Agent_(N8NIM).md",
+          "name": "Intisar Al-Ismaili [N8NIM] \u2014 n8n Integration Mapping Agent"
+        },
+        {
+          "file": "n8n_MCP_Integration_Agent_(N8NMCP).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_MCP_Integration_Agent_(N8NMCP).md",
+          "name": "Ahlam Al-Rashdi [N8NMCP] \u2014 n8n MCP Integration Agent"
+        },
+        {
+          "file": "n8n_Monitoring_and_Retry_Agent_(N8NMR).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Monitoring_and_Retry_Agent_(N8NMR).md",
+          "name": "Ghalib Al-Hadrami [N8NMR] \u2014 n8n Monitoring and Retry Agent"
+        },
+        {
+          "file": "n8n_Scalability_Agent_(N8NS).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Scalability_Agent_(N8NS).md",
+          "name": "Murad Al-Kindi [N8NS] \u2014 n8n Scalability Agent"
+        },
+        {
+          "file": "n8n_Scheduling_and_Trigger_Agent_(N8NST).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Scheduling_and_Trigger_Agent_(N8NST).md",
+          "name": "Tariq Al-Wahbi [N8NST] \u2014 n8n Scheduling and Trigger Agent"
+        },
+        {
+          "file": "n8n_Secrets_and_Credential_Safety_Agent_(N8NSC).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Secrets_and_Credential_Safety_Agent_(N8NSC).md",
+          "name": "Haitham Al-Hosni [N8NSC] \u2014 n8n Secrets and Credential Safety Agent"
+        },
+        {
+          "file": "n8n_Webhook_Agent_(N8NWH).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Webhook_Agent_(N8NWH).md",
+          "name": "Sabah Al-Shukaili [N8NWH] \u2014 n8n Webhook Agent"
+        },
+        {
+          "file": "n8n_Workflow_Architect_Agent_(N8NWA).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Workflow_Architect_Agent_(N8NWA).md",
+          "name": "Othman Al-Tobi [N8NWA] \u2014 n8n Workflow Architect Agent"
+        },
+        {
+          "file": "n8n_Workflow_Governance_Agent_(N8NWG).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Workflow_Governance_Agent_(N8NWG).md",
+          "name": "Zubaida Al-Harthi [N8NWG] \u2014 n8n Workflow Governance Agent"
+        },
+        {
+          "file": "n8n_Workflow_Testing_Agent_(N8NWT).md",
+          "path": "AGENTS/21_N8N_AUTOMATION_AND_WORKFLOW/n8n_Workflow_Testing_Agent_(N8NWT).md",
+          "name": "Adnan Al-Balushi [N8NWT] \u2014 n8n Workflow Testing Agent"
+        }
+      ]
+    },
+    {
+      "id": "22_PAYMENT_GATEWAY_AND_BILLING",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "Checkout_Experience_Agent_(CHK).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Checkout_Experience_Agent_(CHK).md",
+          "name": "Habib Al-Kharusi [CHK] \u2014 Checkout Experience Agent"
+        },
+        {
+          "file": "Fraud_Detection_and_Risk_Scoring_Agent_(FDR).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Fraud_Detection_and_Risk_Scoring_Agent_(FDR).md",
+          "name": "Maysoon Al-Mahrouqi [FDR] \u2014 Fraud Detection and Risk Scoring Agent"
+        },
+        {
+          "file": "Invoice_and_Tax_Logic_Agent_(ITL).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Invoice_and_Tax_Logic_Agent_(ITL).md",
+          "name": "Nizar Al-Wahaibi [ITL] \u2014 Invoice and Tax Logic Agent"
+        },
+        {
+          "file": "Multi_Provider_Payment_Routing_Agent_(MPR).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Multi_Provider_Payment_Routing_Agent_(MPR).md",
+          "name": "Buthaina Al-Ghafri [MPR] \u2014 Multi Provider Payment Routing Agent"
+        },
+        {
+          "file": "Payment_Failure_Recovery_Agent_(PFR).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Failure_Recovery_Agent_(PFR).md",
+          "name": "Naima Al-Abri [PFR] \u2014 Payment Failure Recovery Agent"
+        },
+        {
+          "file": "Payment_Gateway_Architect_Agent_(PGA).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Gateway_Architect_Agent_(PGA).md",
+          "name": "Bassam Al-Habsi [PGA] \u2014 Payment Gateway Architect Agent"
+        },
+        {
+          "file": "Payment_Gateway_Integration_Agent_(PGI).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Gateway_Integration_Agent_(PGI).md",
+          "name": "Tahani Al-Rawahi [PGI] \u2014 Payment Gateway Integration Agent"
+        },
+        {
+          "file": "Payment_Reconciliation_Agent_(PRC).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Reconciliation_Agent_(PRC).md",
+          "name": "Yasser Al-Farsi [PRC] \u2014 Payment Reconciliation Agent"
+        },
+        {
+          "file": "Payment_Security_and_PCI_Compliance_Agent_(PCI).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Security_and_PCI_Compliance_Agent_(PCI).md",
+          "name": "Jamil Al-Busaidi [PCI] \u2014 Payment Security and PCI Compliance Agent"
+        },
+        {
+          "file": "Payment_Webhook_Reliability_Agent_(PWR).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Payment_Webhook_Reliability_Agent_(PWR).md",
+          "name": "Karim Al-Riyami [PWR] \u2014 Payment Webhook Reliability Agent"
+        },
+        {
+          "file": "Recurring_Payments_Agent_(RPA).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Recurring_Payments_Agent_(RPA).md",
+          "name": "Shihab Al-Saadi [RPA] \u2014 Recurring Payments Agent"
+        },
+        {
+          "file": "Refunds_and_Chargeback_Handling_Agent_(RCH).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Refunds_and_Chargeback_Handling_Agent_(RCH).md",
+          "name": "Samah Al-Hinai [RCH] \u2014 Refunds and Chargeback Handling Agent"
+        },
+        {
+          "file": "Subscription_Billing_Agent_(SUB).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Subscription_Billing_Agent_(SUB).md",
+          "name": "Warda Al-Maskari [SUB] \u2014 Subscription Billing Agent"
+        },
+        {
+          "file": "Wallet_and_Alternative_Payments_Agent_(WAP).md",
+          "path": "AGENTS/22_PAYMENT_GATEWAY_AND_BILLING/Wallet_and_Alternative_Payments_Agent_(WAP).md",
+          "name": "Othman Al-Tobi [WAP] \u2014 Wallet and Alternative Payments Agent"
+        }
+      ]
+    },
+    {
+      "id": "23_ADVANCED_SECURITY_SPECIALISTS",
+      "agentCount": 17,
+      "agents": [
+        {
+          "file": "API_Security_Agent_(APIS).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/API_Security_Agent_(APIS).md",
+          "name": "Nasra Al-Mamari [APIS] \u2014 API Security Agent"
+        },
+        {
+          "file": "Application_Security_Architect_Agent_(ASA).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Application_Security_Architect_Agent_(ASA).md",
+          "name": "Lamya Al-Zadjali [ASA] \u2014 Application Security Architect Agent"
+        },
+        {
+          "file": "Cloud_Security_Posture_Agent_(CSP).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Cloud_Security_Posture_Agent_(CSP).md",
+          "name": "Tariq Al-Wahbi [CSP] \u2014 Cloud Security Posture Agent"
+        },
+        {
+          "file": "Container_Security_Agent_(CTS).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Container_Security_Agent_(CTS).md",
+          "name": "Sabah Al-Shukaili [CTS] \u2014 Container Security Agent"
+        },
+        {
+          "file": "Data_Loss_Prevention_Agent_(DLP).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Data_Loss_Prevention_Agent_(DLP).md",
+          "name": "Bassam Al-Habsi [DLP] \u2014 Data Loss Prevention Agent"
+        },
+        {
+          "file": "Encryption_and_Cryptography_Agent_(ENC).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Encryption_and_Cryptography_Agent_(ENC).md",
+          "name": "Tahani Al-Rawahi [ENC] \u2014 Encryption and Cryptography Agent"
+        },
+        {
+          "file": "IAM_and_Access_Control_Agent_(IAC).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/IAM_and_Access_Control_Agent_(IAC).md",
+          "name": "Ahlam Al-Rashdi [IAC] \u2014 IAM and Access Control Agent"
+        },
+        {
+          "file": "Incident_Response_and_Containment_Agent_(IRC).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Incident_Response_and_Containment_Agent_(IRC).md",
+          "name": "Raya Al-Lawati [IRC] \u2014 Incident Response and Containment Agent"
+        },
+        {
+          "file": "Infrastructure_Security_Agent_(INS).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Infrastructure_Security_Agent_(INS).md",
+          "name": "Haitham Al-Hosni [INS] \u2014 Infrastructure Security Agent"
+        },
+        {
+          "file": "Penetration_Testing_Coordination_Agent_(PTC).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Penetration_Testing_Coordination_Agent_(PTC).md",
+          "name": "Adnan Al-Balushi [PTC] \u2014 Penetration Testing Coordination Agent"
+        },
+        {
+          "file": "Secrets_and_Key_Management_Agent_(SKM).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Secrets_and_Key_Management_Agent_(SKM).md",
+          "name": "Mukhtar Al-Battashi [SKM] \u2014 Secrets and Key Management Agent"
+        },
+        {
+          "file": "Secure_Coding_Review_Agent_(SCR).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Secure_Coding_Review_Agent_(SCR).md",
+          "name": "Hashim Al-Shukri [SCR] \u2014 Secure Coding Review Agent"
+        },
+        {
+          "file": "Security_Compliance_Evidence_Agent_(SCE).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Security_Compliance_Evidence_Agent_(SCE).md",
+          "name": "Murad Al-Kindi [SCE] \u2014 Security Compliance Evidence Agent"
+        },
+        {
+          "file": "Security_Monitoring_and_Detection_Agent_(SMD).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Security_Monitoring_and_Detection_Agent_(SMD).md",
+          "name": "Intisar Al-Ismaili [SMD] \u2014 Security Monitoring and Detection Agent"
+        },
+        {
+          "file": "Threat_Modeling_Specialist_Agent_(TMS).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Threat_Modeling_Specialist_Agent_(TMS).md",
+          "name": "Zubaida Al-Harthi [TMS] \u2014 Threat Modeling Specialist Agent"
+        },
+        {
+          "file": "Vulnerability_Management_Agent_(VMA).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Vulnerability_Management_Agent_(VMA).md",
+          "name": "Ghalib Al-Hadrami [VMA] \u2014 Vulnerability Management Agent"
+        },
+        {
+          "file": "Zero_Trust_Architecture_Agent_(ZTA).md",
+          "path": "AGENTS/23_ADVANCED_SECURITY_SPECIALISTS/Zero_Trust_Architecture_Agent_(ZTA).md",
+          "name": "Najla Al-Siyabi [ZTA] \u2014 Zero Trust Architecture Agent"
+        }
+      ]
+    },
+    {
+      "id": "24_CLI_AND_DEVELOPER_TOOLING",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "CLI_Architect_Agent_(CLIA).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Architect_Agent_(CLIA).md",
+          "name": "Jamil Al-Busaidi [CLIA] \u2014 CLI Architect Agent"
+        },
+        {
+          "file": "CLI_Command_Parser_Agent_(CLIP).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Command_Parser_Agent_(CLIP).md",
+          "name": "Nizar Al-Wahaibi [CLIP] \u2014 CLI Command Parser Agent"
+        },
+        {
+          "file": "CLI_Cross_Platform_Compatibility_Agent_(CLIX).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Cross_Platform_Compatibility_Agent_(CLIX).md",
+          "name": "Maysoon Al-Mahrouqi [CLIX] \u2014 CLI Cross Platform Compatibility Agent"
+        },
+        {
+          "file": "CLI_Error_Handling_Agent_(CLIE).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Error_Handling_Agent_(CLIE).md",
+          "name": "Buthaina Al-Ghafri [CLIE] \u2014 CLI Error Handling Agent"
+        },
+        {
+          "file": "CLI_Help_and_Documentation_Agent_(CLID).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Help_and_Documentation_Agent_(CLID).md",
+          "name": "Yasser Al-Farsi [CLID] \u2014 CLI Help and Documentation Agent"
+        },
+        {
+          "file": "CLI_Output_Formatting_Agent_(CLIO).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Output_Formatting_Agent_(CLIO).md",
+          "name": "Karim Al-Riyami [CLIO] \u2014 CLI Output Formatting Agent"
+        },
+        {
+          "file": "CLI_Packaging_and_Distribution_Agent_(CLIPD).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Packaging_and_Distribution_Agent_(CLIPD).md",
+          "name": "Habib Al-Kharusi [CLIPD] \u2014 CLI Packaging and Distribution Agent"
+        },
+        {
+          "file": "CLI_Performance_Agent_(CLIPF).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Performance_Agent_(CLIPF).md",
+          "name": "Lamya Al-Zadjali [CLIPF] \u2014 CLI Performance Agent"
+        },
+        {
+          "file": "CLI_Plugin_System_Agent_(CLIPL).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Plugin_System_Agent_(CLIPL).md",
+          "name": "Othman Al-Tobi [CLIPL] \u2014 CLI Plugin System Agent"
+        },
+        {
+          "file": "CLI_Security_and_Permissions_Agent_(CLISP).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Security_and_Permissions_Agent_(CLISP).md",
+          "name": "Shihab Al-Saadi [CLISP] \u2014 CLI Security and Permissions Agent"
+        },
+        {
+          "file": "CLI_Shell_Integration_Agent_(CLISH).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Shell_Integration_Agent_(CLISH).md",
+          "name": "Naima Al-Abri [CLISH] \u2014 CLI Shell Integration Agent"
+        },
+        {
+          "file": "CLI_Testing_Agent_(CLIT).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Testing_Agent_(CLIT).md",
+          "name": "Hashim Al-Shukri [CLIT] \u2014 CLI Testing Agent"
+        },
+        {
+          "file": "CLI_UX_and_Command_Design_Agent_(CLIUX).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_UX_and_Command_Design_Agent_(CLIUX).md",
+          "name": "Warda Al-Maskari [CLIUX] \u2014 CLI UX and Command Design Agent"
+        },
+        {
+          "file": "CLI_Workflow_Automation_Agent_(CLIWA).md",
+          "path": "AGENTS/24_CLI_AND_DEVELOPER_TOOLING/CLI_Workflow_Automation_Agent_(CLIWA).md",
+          "name": "Samah Al-Hinai [CLIWA] \u2014 CLI Workflow Automation Agent"
+        }
+      ]
+    },
+    {
+      "id": "25_DASHBOARD_AND_ANALYTICS_EXPERIENCE",
+      "agentCount": 14,
+      "agents": [
+        {
+          "file": "Dashboard_Accessibility_Agent_(DAX).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Accessibility_Agent_(DAX).md",
+          "name": "Adnan Al-Balushi [DAX] \u2014 Dashboard Accessibility Agent"
+        },
+        {
+          "file": "Dashboard_Architecture_Agent_(DSA).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Architecture_Agent_(DSA).md",
+          "name": "Ahlam Al-Rashdi [DSA] \u2014 Dashboard Architecture Agent"
+        },
+        {
+          "file": "Dashboard_Consistency_and_Layout_Agent_(DCL).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Consistency_and_Layout_Agent_(DCL).md",
+          "name": "Murad Al-Kindi [DCL] \u2014 Dashboard Consistency and Layout Agent"
+        },
+        {
+          "file": "Dashboard_Data_Integrity_Agent_(DDI).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Data_Integrity_Agent_(DDI).md",
+          "name": "Najla Al-Siyabi [DDI] \u2014 Dashboard Data Integrity Agent"
+        },
+        {
+          "file": "Dashboard_Data_Visualization_Agent_(DDV).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Data_Visualization_Agent_(DDV).md",
+          "name": "Haitham Al-Hosni [DDV] \u2014 Dashboard Data Visualization Agent"
+        },
+        {
+          "file": "Dashboard_Export_and_Reporting_Agent_(DER).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Export_and_Reporting_Agent_(DER).md",
+          "name": "Bassam Al-Habsi [DER] \u2014 Dashboard Export and Reporting Agent"
+        },
+        {
+          "file": "Dashboard_Performance_Agent_(DPA).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Performance_Agent_(DPA).md",
+          "name": "Zubaida Al-Harthi [DPA] \u2014 Dashboard Performance Agent"
+        },
+        {
+          "file": "Dashboard_Storytelling_Agent_(DST).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_Storytelling_Agent_(DST).md",
+          "name": "Raya Al-Lawati [DST] \u2014 Dashboard Storytelling Agent"
+        },
+        {
+          "file": "Dashboard_UX_Strategy_Agent_(DUX).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Dashboard_UX_Strategy_Agent_(DUX).md",
+          "name": "Mukhtar Al-Battashi [DUX] \u2014 Dashboard UX Strategy Agent"
+        },
+        {
+          "file": "Executive_Dashboard_Agent_(EDA2).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Executive_Dashboard_Agent_(EDA2).md",
+          "name": "Sabah Al-Shukaili [EDA2] \u2014 Executive Dashboard Agent"
+        },
+        {
+          "file": "Filter_and_Drilldown_Logic_Agent_(FDL).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Filter_and_Drilldown_Logic_Agent_(FDL).md",
+          "name": "Ghalib Al-Hadrami [FDL] \u2014 Filter and Drilldown Logic Agent"
+        },
+        {
+          "file": "KPI_and_Metrics_Modeling_Agent_(KMM).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/KPI_and_Metrics_Modeling_Agent_(KMM).md",
+          "name": "Nasra Al-Mamari [KMM] \u2014 KPI and Metrics Modeling Agent"
+        },
+        {
+          "file": "Operational_Dashboard_Agent_(ODA).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Operational_Dashboard_Agent_(ODA).md",
+          "name": "Tariq Al-Wahbi [ODA] \u2014 Operational Dashboard Agent"
+        },
+        {
+          "file": "Realtime_Dashboard_Agent_(RTD).md",
+          "path": "AGENTS/25_DASHBOARD_AND_ANALYTICS_EXPERIENCE/Realtime_Dashboard_Agent_(RTD).md",
+          "name": "Intisar Al-Ismaili [RTD] \u2014 Realtime Dashboard Agent"
+        }
+      ]
+    },
+    {
+      "id": "26_AVAILABILITY_PORTS_AND_RUNTIME",
+      "agentCount": 10,
+      "agents": [
+        {
+          "file": "Dependency_Readiness_Agent_(DRA2).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Dependency_Readiness_Agent_(DRA2).md",
+          "name": "Samah Al-Hinai [DRA2] \u2014 Dependency Readiness Agent"
+        },
+        {
+          "file": "Environment_Sanity_Check_Agent_(ESC).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Environment_Sanity_Check_Agent_(ESC).md",
+          "name": "Habib Al-Kharusi [ESC] \u2014 Environment Sanity Check Agent"
+        },
+        {
+          "file": "Local_Environment_Conflict_Detection_Agent_(LEC).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Local_Environment_Conflict_Detection_Agent_(LEC).md",
+          "name": "Warda Al-Maskari [LEC] \u2014 Local Environment Conflict Detection Agent"
+        },
+        {
+          "file": "Network_Port_Mapping_Agent_(NPM).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Network_Port_Mapping_Agent_(NPM).md",
+          "name": "Karim Al-Riyami [NPM] \u2014 Network Port Mapping Agent"
+        },
+        {
+          "file": "Port_Availability_Check_Agent_(PAC).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Port_Availability_Check_Agent_(PAC).md",
+          "name": "Tahani Al-Rawahi [PAC] \u2014 Port Availability Check Agent"
+        },
+        {
+          "file": "Process_Conflict_Resolution_Agent_(PCR).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Process_Conflict_Resolution_Agent_(PCR).md",
+          "name": "Maysoon Al-Mahrouqi [PCR] \u2014 Process Conflict Resolution Agent"
+        },
+        {
+          "file": "Runtime_Health_Check_Agent_(RHC).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Runtime_Health_Check_Agent_(RHC).md",
+          "name": "Nizar Al-Wahaibi [RHC] \u2014 Runtime Health Check Agent"
+        },
+        {
+          "file": "Service_Availability_Validation_Agent_(SAV).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Service_Availability_Validation_Agent_(SAV).md",
+          "name": "Jamil Al-Busaidi [SAV] \u2014 Service Availability Validation Agent"
+        },
+        {
+          "file": "Service_Discovery_Validation_Agent_(SDV).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Service_Discovery_Validation_Agent_(SDV).md",
+          "name": "Buthaina Al-Ghafri [SDV] \u2014 Service Discovery Validation Agent"
+        },
+        {
+          "file": "Startup_Diagnostics_Agent_(SDA2).md",
+          "path": "AGENTS/26_AVAILABILITY_PORTS_AND_RUNTIME/Startup_Diagnostics_Agent_(SDA2).md",
+          "name": "Yasser Al-Farsi [SDA2] \u2014 Startup Diagnostics Agent"
+        }
+      ]
+    },
+    {
+      "id": "27_DOCKER_CONTAINERS_AND_DEPLOYMENT",
+      "agentCount": 15,
+      "agents": [
+        {
+          "file": "Container_Build_Reliability_Agent_(CBR).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Build_Reliability_Agent_(CBR).md",
+          "name": "Lamya Al-Zadjali [CBR] \u2014 Container Build Reliability Agent"
+        },
+        {
+          "file": "Container_Networking_Agent_(CNA).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Networking_Agent_(CNA).md",
+          "name": "Hashim Al-Shukri [CNA] \u2014 Container Networking Agent"
+        },
+        {
+          "file": "Container_Observability_Agent_(COB).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Observability_Agent_(COB).md",
+          "name": "Intisar Al-Ismaili [COB] \u2014 Container Observability Agent"
+        },
+        {
+          "file": "Container_Security_Hardening_Agent_(CSH).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Security_Hardening_Agent_(CSH).md",
+          "name": "Haitham Al-Hosni [CSH] \u2014 Container Security Hardening Agent"
+        },
+        {
+          "file": "Container_Troubleshooting_Agent_(CTR).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Troubleshooting_Agent_(CTR).md",
+          "name": "Ghalib Al-Hadrami [CTR] \u2014 Container Troubleshooting Agent"
+        },
+        {
+          "file": "Container_Volume_and_Persistence_Agent_(CVP).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Container_Volume_and_Persistence_Agent_(CVP).md",
+          "name": "Ahlam Al-Rashdi [CVP] \u2014 Container Volume and Persistence Agent"
+        },
+        {
+          "file": "Docker_Architecture_Agent_(DCA).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Docker_Architecture_Agent_(DCA).md",
+          "name": "Naima Al-Abri [DCA] \u2014 Docker Architecture Agent"
+        },
+        {
+          "file": "Docker_Compose_Agent_(DCO).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Docker_Compose_Agent_(DCO).md",
+          "name": "Othman Al-Tobi [DCO] \u2014 Docker Compose Agent"
+        },
+        {
+          "file": "Dockerfile_Optimization_Agent_(DFO).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Dockerfile_Optimization_Agent_(DFO).md",
+          "name": "Shihab Al-Saadi [DFO] \u2014 Dockerfile Optimization Agent"
+        },
+        {
+          "file": "Image_Size_Optimization_Agent_(ISO).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Image_Size_Optimization_Agent_(ISO).md",
+          "name": "Nasra Al-Mamari [ISO] \u2014 Image Size Optimization Agent"
+        },
+        {
+          "file": "Local_Development_Container_Agent_(LDC).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Local_Development_Container_Agent_(LDC).md",
+          "name": "Sabah Al-Shukaili [LDC] \u2014 Local Development Container Agent"
+        },
+        {
+          "file": "Multi_Stage_Build_Agent_(MSB).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Multi_Stage_Build_Agent_(MSB).md",
+          "name": "Mukhtar Al-Battashi [MSB] \u2014 Multi Stage Build Agent"
+        },
+        {
+          "file": "Orchestration_Readiness_Agent_(ORA2).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Orchestration_Readiness_Agent_(ORA2).md",
+          "name": "Adnan Al-Balushi [ORA2] \u2014 Orchestration Readiness Agent"
+        },
+        {
+          "file": "Production_Container_Deployment_Agent_(PCD).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Production_Container_Deployment_Agent_(PCD).md",
+          "name": "Tariq Al-Wahbi [PCD] \u2014 Production Container Deployment Agent"
+        },
+        {
+          "file": "Registry_and_Image_Publishing_Agent_(RIP).md",
+          "path": "AGENTS/27_DOCKER_CONTAINERS_AND_DEPLOYMENT/Registry_and_Image_Publishing_Agent_(RIP).md",
+          "name": "Zubaida Al-Harthi [RIP] \u2014 Registry and Image Publishing Agent"
+        }
+      ]
+    },
+    {
+      "id": "28_PROMPT_ENGINEERING",
+      "agentCount": 13,
+      "agents": [
+        {
+          "file": "Prompt_Context_Compression_Agent_(PCC).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Context_Compression_Agent_(PCC).md",
+          "name": "Yasser Al-Farsi [PCC] \u2014 Prompt Context Compression Agent"
+        },
+        {
+          "file": "Prompt_Documentation_Agent_(PDOC).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Documentation_Agent_(PDOC).md",
+          "name": "Nizar Al-Wahaibi [PDOC] \u2014 Prompt Documentation Agent"
+        },
+        {
+          "file": "Prompt_Engineering_Architect_Agent_(PEA).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Engineering_Architect_Agent_(PEA).md",
+          "name": "Raya Al-Lawati [PEA] \u2014 Prompt Engineering Architect Agent"
+        },
+        {
+          "file": "Prompt_Evaluation_Agent_(PEV).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Evaluation_Agent_(PEV).md",
+          "name": "Jamil Al-Busaidi [PEV] \u2014 Prompt Evaluation Agent"
+        },
+        {
+          "file": "Prompt_Failure_Analysis_Agent_(PFA).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Failure_Analysis_Agent_(PFA).md",
+          "name": "Buthaina Al-Ghafri [PFA] \u2014 Prompt Failure Analysis Agent"
+        },
+        {
+          "file": "Prompt_Personalization_Agent_(PPER).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Personalization_Agent_(PPER).md",
+          "name": "Samah Al-Hinai [PPER] \u2014 Prompt Personalization Agent"
+        },
+        {
+          "file": "Prompt_Routing_Agent_(PROU).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Routing_Agent_(PROU).md",
+          "name": "Karim Al-Riyami [PROU] \u2014 Prompt Routing Agent"
+        },
+        {
+          "file": "Prompt_Safety_and_Guardrails_Agent_(PSG).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Safety_and_Guardrails_Agent_(PSG).md",
+          "name": "Bassam Al-Habsi [PSG] \u2014 Prompt Safety and Guardrails Agent"
+        },
+        {
+          "file": "Prompt_Strategy_Agent_(PSA2).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Strategy_Agent_(PSA2).md",
+          "name": "Murad Al-Kindi [PSA2] \u2014 Prompt Strategy Agent"
+        },
+        {
+          "file": "Prompt_Structure_Agent_(PST).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Structure_Agent_(PST).md",
+          "name": "Najla Al-Siyabi [PST] \u2014 Prompt Structure Agent"
+        },
+        {
+          "file": "Prompt_Testing_Agent_(PTA2).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Testing_Agent_(PTA2).md",
+          "name": "Tahani Al-Rawahi [PTA2] \u2014 Prompt Testing Agent"
+        },
+        {
+          "file": "Prompt_Tool_Invocation_Design_Agent_(PTI).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Tool_Invocation_Design_Agent_(PTI).md",
+          "name": "Maysoon Al-Mahrouqi [PTI] \u2014 Prompt Tool Invocation Design Agent"
+        },
+        {
+          "file": "Prompt_Versioning_Agent_(PVER).md",
+          "path": "AGENTS/28_PROMPT_ENGINEERING/Prompt_Versioning_Agent_(PVER).md",
+          "name": "Warda Al-Maskari [PVER] \u2014 Prompt Versioning Agent"
+        }
+      ]
+    },
+    {
+      "id": "29_PROMPT_OPTIMIZATION",
+      "agentCount": 12,
+      "agents": [
+        {
+          "file": "Prompt_A_B_Testing_Agent_(PAB).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_A_B_Testing_Agent_(PAB).md",
+          "name": "Mukhtar Al-Battashi [PAB] \u2014 Prompt A/B Testing Agent"
+        },
+        {
+          "file": "Prompt_Accuracy_Improvement_Agent_(PAI).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Accuracy_Improvement_Agent_(PAI).md",
+          "name": "Lamya Al-Zadjali [PAI] \u2014 Prompt Accuracy Improvement Agent"
+        },
+        {
+          "file": "Prompt_Clarity_Refinement_Agent_(PCRA).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Clarity_Refinement_Agent_(PCRA).md",
+          "name": "Shihab Al-Saadi [PCRA] \u2014 Prompt Clarity Refinement Agent"
+        },
+        {
+          "file": "Prompt_Efficiency_Agent_(PEF).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Efficiency_Agent_(PEF).md",
+          "name": "Naima Al-Abri [PEF] \u2014 Prompt Efficiency Agent"
+        },
+        {
+          "file": "Prompt_Governance_Agent_(PGA2).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Governance_Agent_(PGA2).md",
+          "name": "Tariq Al-Wahbi [PGA2] \u2014 Prompt Governance Agent"
+        },
+        {
+          "file": "Prompt_Optimizer_Agent_(POA).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Optimizer_Agent_(POA).md",
+          "name": "Habib Al-Kharusi [POA] \u2014 Prompt Optimizer Agent"
+        },
+        {
+          "file": "Prompt_Output_Formatting_Agent_(POF).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Output_Formatting_Agent_(POF).md",
+          "name": "Nasra Al-Mamari [POF] \u2014 Prompt Output Formatting Agent"
+        },
+        {
+          "file": "Prompt_Reliability_Scoring_Agent_(PRS).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Reliability_Scoring_Agent_(PRS).md",
+          "name": "Haitham Al-Hosni [PRS] \u2014 Prompt Reliability Scoring Agent"
+        },
+        {
+          "file": "Prompt_Response_Consistency_Agent_(PRC2).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Response_Consistency_Agent_(PRC2).md",
+          "name": "Ahlam Al-Rashdi [PRC2] \u2014 Prompt Response Consistency Agent"
+        },
+        {
+          "file": "Prompt_Reusability_Agent_(PRA2).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Reusability_Agent_(PRA2).md",
+          "name": "Sabah Al-Shukaili [PRA2] \u2014 Prompt Reusability Agent"
+        },
+        {
+          "file": "Prompt_Task_Decomposition_Agent_(PTD).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Task_Decomposition_Agent_(PTD).md",
+          "name": "Hashim Al-Shukri [PTD] \u2014 Prompt Task Decomposition Agent"
+        },
+        {
+          "file": "Prompt_Token_Reduction_Agent_(PTR).md",
+          "path": "AGENTS/29_PROMPT_OPTIMIZATION/Prompt_Token_Reduction_Agent_(PTR).md",
+          "name": "Othman Al-Tobi [PTR] \u2014 Prompt Token Reduction Agent"
+        }
+      ]
+    },
+    {
+      "id": "30_REVIEW_ONLY_SPECIALISTS",
+      "agentCount": 23,
+      "agents": [
+        {
+          "file": "Architecture_Review_Agent_(ARV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Architecture_Review_Agent_(ARV).md",
+          "name": "Intisar Al-Ismaili [ARV] \u2014 Architecture Review Agent"
+        },
+        {
+          "file": "CLI_Design_Review_Agent_(CDR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/CLI_Design_Review_Agent_(CDR).md",
+          "name": "Habib Al-Kharusi [CDR] \u2014 CLI Design Review Agent"
+        },
+        {
+          "file": "Code_Review_Agent_(CRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Code_Review_Agent_(CRV).md",
+          "name": "Ghalib Al-Hadrami [CRV] \u2014 Code Review Agent"
+        },
+        {
+          "file": "Compliance_Review_Agent_(CORV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Compliance_Review_Agent_(CORV).md",
+          "name": "Bassam Al-Habsi [CORV] \u2014 Compliance Review Agent"
+        },
+        {
+          "file": "Dashboard_Review_Agent_(DREV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Dashboard_Review_Agent_(DREV).md",
+          "name": "Naima Al-Abri [DREV] \u2014 Dashboard Review Agent"
+        },
+        {
+          "file": "Data_Review_Agent_(DRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Data_Review_Agent_(DRV).md",
+          "name": "Najla Al-Siyabi [DRV] \u2014 Data Review Agent"
+        },
+        {
+          "file": "Docker_Review_Agent_(DREV2).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Docker_Review_Agent_(DREV2).md",
+          "name": "Othman Al-Tobi [DREV2] \u2014 Docker Review Agent"
+        },
+        {
+          "file": "Documentation_Review_Agent_(DOR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Documentation_Review_Agent_(DOR).md",
+          "name": "Jamil Al-Busaidi [DOR] \u2014 Documentation Review Agent"
+        },
+        {
+          "file": "MCP_Compliance_Review_Agent_(MCPR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/MCP_Compliance_Review_Agent_(MCPR).md",
+          "name": "Karim Al-Riyami [MCPR] \u2014 MCP Compliance Review Agent"
+        },
+        {
+          "file": "Payment_Integration_Review_Agent_(PIR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Payment_Integration_Review_Agent_(PIR).md",
+          "name": "Yasser Al-Farsi [PIR] \u2014 Payment Integration Review Agent"
+        },
+        {
+          "file": "Payment_Security_Review_Agent_(PSR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Payment_Security_Review_Agent_(PSR).md",
+          "name": "Maysoon Al-Mahrouqi [PSR] \u2014 Payment Security Review Agent"
+        },
+        {
+          "file": "Performance_Review_Agent_(PRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Performance_Review_Agent_(PRV).md",
+          "name": "Murad Al-Kindi [PRV] \u2014 Performance Review Agent"
+        },
+        {
+          "file": "Prompt_Optimization_Review_Agent_(POR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Prompt_Optimization_Review_Agent_(POR).md",
+          "name": "Hashim Al-Shukri [POR] \u2014 Prompt Optimization Review Agent"
+        },
+        {
+          "file": "Prompt_Review_Agent_(PREV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Prompt_Review_Agent_(PREV).md",
+          "name": "Lamya Al-Zadjali [PREV] \u2014 Prompt Review Agent"
+        },
+        {
+          "file": "Realtime_Reliability_Review_Agent_(RTR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Realtime_Reliability_Review_Agent_(RTR).md",
+          "name": "Samah Al-Hinai [RTR] \u2014 Realtime Reliability Review Agent"
+        },
+        {
+          "file": "Release_Readiness_Review_Agent_(RRR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Release_Readiness_Review_Agent_(RRR).md",
+          "name": "Tahani Al-Rawahi [RRR] \u2014 Release Readiness Review Agent"
+        },
+        {
+          "file": "Runtime_Environment_Review_Agent_(RER).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Runtime_Environment_Review_Agent_(RER).md",
+          "name": "Shihab Al-Saadi [RER] \u2014 Runtime Environment Review Agent"
+        },
+        {
+          "file": "Security_Review_Agent_(SRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Security_Review_Agent_(SRV).md",
+          "name": "Raya Al-Lawati [SRV] \u2014 Security Review Agent"
+        },
+        {
+          "file": "Testing_Quality_Review_Agent_(TQR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Testing_Quality_Review_Agent_(TQR).md",
+          "name": "Warda Al-Maskari [TQR] \u2014 Testing Quality Review Agent"
+        },
+        {
+          "file": "UI_Review_Agent_(UIRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/UI_Review_Agent_(UIRV).md",
+          "name": "Adnan Al-Balushi [UIRV] \u2014 UI Review Agent"
+        },
+        {
+          "file": "UX_Review_Agent_(UXRV).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/UX_Review_Agent_(UXRV).md",
+          "name": "Zubaida Al-Harthi [UXRV] \u2014 UX Review Agent"
+        },
+        {
+          "file": "Web3_Security_Review_Agent_(W3SR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/Web3_Security_Review_Agent_(W3SR).md",
+          "name": "Nizar Al-Wahaibi [W3SR] \u2014 Web3 Security Review Agent"
+        },
+        {
+          "file": "n8n_Workflow_Review_Agent_(N8NR).md",
+          "path": "AGENTS/30_REVIEW_ONLY_SPECIALISTS/n8n_Workflow_Review_Agent_(N8NR).md",
+          "name": "Buthaina Al-Ghafri [N8NR] \u2014 n8n Workflow Review Agent"
+        }
+      ]
+    },
+    {
+      "id": "31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT",
+      "agentCount": 18,
+      "agents": [
+        {
+          "file": "API_Frontend_Contract_Enforcement_Agent_(AFCE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/API_Frontend_Contract_Enforcement_Agent_(AFCE).md",
+          "name": "Nasra Al-Mamari [AFCE] \u2014 API Frontend Contract Enforcement Agent"
+        },
+        {
+          "file": "Admin_Registration_Enforcement_Agent_(ARE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Admin_Registration_Enforcement_Agent_(ARE).md",
+          "name": "Tariq Al-Wahbi [ARE] \u2014 Admin Registration Enforcement Agent"
+        },
+        {
+          "file": "Architecture_Rules_Enforcement_Agent_(ARE2).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Architecture_Rules_Enforcement_Agent_(ARE2).md",
+          "name": "Ghalib Al-Hadrami [ARE2] \u2014 Architecture Rules Enforcement Agent"
+        },
+        {
+          "file": "CLI_Standards_Enforcement_Agent_(CLISE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/CLI_Standards_Enforcement_Agent_(CLISE).md",
+          "name": "Najla Al-Siyabi [CLISE] \u2014 CLI Standards Enforcement Agent"
+        },
+        {
+          "file": "Context_Consistency_Enforcement_Agent_(CCE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Context_Consistency_Enforcement_Agent_(CCE).md",
+          "name": "Sabah Al-Shukaili [CCE] \u2014 Context Consistency Enforcement Agent"
+        },
+        {
+          "file": "Cross_Team_Handoff_Enforcement_Agent_(CTH).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Cross_Team_Handoff_Enforcement_Agent_(CTH).md",
+          "name": "Adnan Al-Balushi [CTH] \u2014 Cross Team Handoff Enforcement Agent"
+        },
+        {
+          "file": "Dashboard_Consistency_Enforcement_Agent_(DCE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Dashboard_Consistency_Enforcement_Agent_(DCE).md",
+          "name": "Bassam Al-Habsi [DCE] \u2014 Dashboard Consistency Enforcement Agent"
+        },
+        {
+          "file": "Docker_Build_Rules_Enforcement_Agent_(DBR).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Docker_Build_Rules_Enforcement_Agent_(DBR).md",
+          "name": "Jamil Al-Busaidi [DBR] \u2014 Docker Build Rules Enforcement Agent"
+        },
+        {
+          "file": "Documentation_Update_Enforcement_Agent_(DUE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Documentation_Update_Enforcement_Agent_(DUE).md",
+          "name": "Zubaida Al-Harthi [DUE] \u2014 Documentation Update Enforcement Agent"
+        },
+        {
+          "file": "File_Structure_Compliance_Agent_(FSCA).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/File_Structure_Compliance_Agent_(FSCA).md",
+          "name": "Mukhtar Al-Battashi [FSCA] \u2014 File Structure Compliance Agent"
+        },
+        {
+          "file": "Payment_Compliance_Enforcement_Agent_(PCE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Payment_Compliance_Enforcement_Agent_(PCE).md",
+          "name": "Raya Al-Lawati [PCE] \u2014 Payment Compliance Enforcement Agent"
+        },
+        {
+          "file": "Prompt_Quality_Gate_Agent_(PQG).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Prompt_Quality_Gate_Agent_(PQG).md",
+          "name": "Nizar Al-Wahaibi [PQG] \u2014 Prompt Quality Gate Agent"
+        },
+        {
+          "file": "Prompt_Standards_Enforcement_Agent_(PSE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Prompt_Standards_Enforcement_Agent_(PSE).md",
+          "name": "Warda Al-Maskari [PSE] \u2014 Prompt Standards Enforcement Agent"
+        },
+        {
+          "file": "Release_Gate_Enforcement_Agent_(RGE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Release_Gate_Enforcement_Agent_(RGE).md",
+          "name": "Intisar Al-Ismaili [RGE] \u2014 Release Gate Enforcement Agent"
+        },
+        {
+          "file": "Runtime_Checks_Enforcement_Agent_(RCE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Runtime_Checks_Enforcement_Agent_(RCE).md",
+          "name": "Tahani Al-Rawahi [RCE] \u2014 Runtime Checks Enforcement Agent"
+        },
+        {
+          "file": "Security_Policy_Enforcement_Agent_(SPE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Security_Policy_Enforcement_Agent_(SPE).md",
+          "name": "Murad Al-Kindi [SPE] \u2014 Security Policy Enforcement Agent"
+        },
+        {
+          "file": "Steering_Rules_Enforcement_Agent_(SREA).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/Steering_Rules_Enforcement_Agent_(SREA).md",
+          "name": "Ahlam Al-Rashdi [SREA] \u2014 Steering Rules Enforcement Agent"
+        },
+        {
+          "file": "View_Template_Binding_Enforcement_Agent_(VTBE).md",
+          "path": "AGENTS/31_ENFORCEMENT_AND_GOVERNANCE_SUPPORT/View_Template_Binding_Enforcement_Agent_(VTBE).md",
+          "name": "Haitham Al-Hosni [VTBE] \u2014 View Template Binding Enforcement Agent"
+        }
+      ]
+    }
+  ],
+  "totalAgents": 519
+}

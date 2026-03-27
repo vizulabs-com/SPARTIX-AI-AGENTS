@@ -1,0 +1,76 @@
+{
+  "version": "1.0.0",
+  "description": "Master index of all built-in skills",
+  "skills": [
+    {
+      "name": "code-generation",
+      "file": "code-generation.md",
+      "description": "Generate code in specified languages following project standards",
+      "approvedCategories": ["04_FRONTEND", "05_BACKEND", "06_DATABASE", "07_MOBILE", "08_DESKTOP", "17_WEB3", "24_CLI"],
+      "tags": ["code", "generation", "implementation"]
+    },
+    {
+      "name": "code-review",
+      "file": "code-review.md",
+      "description": "Review code for quality, security, and standards compliance",
+      "approvedCategories": ["30_REVIEW", "10_QA", "11_SECURITY"],
+      "tags": ["review", "quality", "standards"]
+    },
+    {
+      "name": "documentation-writing",
+      "file": "documentation-writing.md",
+      "description": "Write technical documentation following project templates",
+      "approvedCategories": ["14_DOCUMENTATION", "05_BACKEND"],
+      "tags": ["documentation", "writing", "technical"]
+    },
+    {
+      "name": "test-generation",
+      "file": "test-generation.md",
+      "description": "Generate test cases and test suites for code and features",
+      "approvedCategories": ["10_QA", "04_FRONTEND", "05_BACKEND"],
+      "tags": ["testing", "generation", "quality"]
+    },
+    {
+      "name": "architecture-analysis",
+      "file": "architecture-analysis.md",
+      "description": "Analyze system architecture for patterns, risks, and improvements",
+      "approvedCategories": ["01_EXECUTIVE", "30_REVIEW"],
+      "tags": ["architecture", "analysis", "design"]
+    },
+    {
+      "name": "security-scanning",
+      "file": "security-scanning.md",
+      "description": "Scan code and configurations for security vulnerabilities",
+      "approvedCategories": ["11_SECURITY", "23_ADVANCED_SECURITY"],
+      "tags": ["security", "scanning", "vulnerability"]
+    },
+    {
+      "name": "data-modeling",
+      "file": "data-modeling.md",
+      "description": "Design and validate data models and schemas",
+      "approvedCategories": ["06_DATABASE", "18_BIG_DATA"],
+      "tags": ["data", "modeling", "schema"]
+    },
+    {
+      "name": "performance-profiling",
+      "file": "performance-profiling.md",
+      "description": "Profile and analyze performance characteristics",
+      "approvedCategories": ["04_FRONTEND", "05_BACKEND", "06_DATABASE", "12_DEVOPS"],
+      "tags": ["performance", "profiling", "optimization"]
+    },
+    {
+      "name": "deployment-automation",
+      "file": "deployment-automation.md",
+      "description": "Automate deployment processes and pipelines",
+      "approvedCategories": ["12_DEVOPS", "27_DOCKER"],
+      "tags": ["deployment", "automation", "ci-cd"]
+    },
+    {
+      "name": "api-design",
+      "file": "api-design.md",
+      "description": "Design RESTful and GraphQL APIs following standards",
+      "approvedCategories": ["05_BACKEND", "20_MCP"],
+      "tags": ["api", "design", "rest", "graphql"]
+    }
+  ]
+}
